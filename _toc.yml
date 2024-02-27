@@ -1,0 +1,95 @@
+format: jb-book
+root: home.md 
+parts:
+- caption: Preface
+  chapters: 
+  - file: ch00-preface/01-vorwort.md
+    title: Vorwort
+  - file: ch00-preface/02-einfuehrung.md
+    title: Einführung
+  - file: ch00-preface/03-python-infos.md
+    title: Infos zu Python
+  - file: ch00-preface/04-nutzung.md
+    title: Nutzung dieses Jupyter Books
+- caption: Python Intermediate
+  chapters:
+  - file: ch01-api/01-api-webscraping.md
+    title: API und Webscraping
+    sections:
+    - file: ch01-api/02-exkurs-third-party-packages.ipynb
+      title: Installation von Packages
+    - file: ch01-api/03-webseite-runterladen.ipynb
+      title: Webseite dowloaden
+    - file: ch01-api/04-intro-api.ipynb
+      title: Einführung Web APIs
+    - file: ch01-api/05-exkurs-html.md
+      title: HTML
+    - file: ch01-api/06-beautiful-soup.ipynb
+      title: HTML parsen mit BeautifulSoup
+  - file: ch02-pandas/01-pandas.md
+    title: Pandas
+    sections: 
+    - file: ch02-programmablaeufe-strukturieren/02-bedingte-anweisungen.ipynb
+      title: Bedingte Anweisungen
+    - file: ch02-programmablaeufe-strukturieren/03-schleifen.ipynb
+      title: Schleifen
+    - file: ch02-programmablaeufe-strukturieren/04-funktionen.ipynb
+      title: Funktionen
+    - file: ch02-programmablaeufe-strukturieren/05-pseudocode.ipynb
+      title: Pseudocode
+  - file: ch03-komplexe-datenstrukturen/01-komplexe-datenstrukturen.ipynb
+    title: Komplexe Datenstrukturen
+    sections: 
+    - file: ch03-komplexe-datenstrukturen/02-listen.ipynb
+      title: Listen
+    - file: ch03-komplexe-datenstrukturen/03-tupel.ipynb
+      title: Tupel
+    - file: ch03-komplexe-datenstrukturen/04-sets.ipynb
+      title: Sets
+    - file: ch03-komplexe-datenstrukturen/05-dictionaries.ipynb
+      title: Dictionaries
+  - file: ch04-dateien-verarbeiten/01-dateien-verarbeiten.ipynb
+    title: Dateien verarbeiten
+    sections:
+    - file: ch04-dateien-verarbeiten/02-dateien-i-o.ipynb
+      title: Dateien öffnen, lesen, bearbeiten
+    - file: ch04-dateien-verarbeiten/03-json.ipynb
+      title: JSON
+    - file: ch04-dateien-verarbeiten/04-csv.ipynb
+      title: CSV
+- caption: Lösungen zu den Aufgaben
+  chapters:
+  - file: ch-loesungen/part01-python-basics-loesungen.ipynb
+    title: Lösungen Python Basics
+    sections: 
+    - file: ch-loesungen/ch02-programmablaeufe-strukturieren-loesungen.ipynb
+      title: Kapitel Programmabläufe strukturieren
+    - file: ch-loesungen/ch03-komplexe-datenstrukturen-loesungen.ipynb
+      title: Kapitel Komplexe Datenstrukturen
+    - file: ch-loesungen/ch04-dateien-verarbeiten-loesungen.ipynb
+      title: Kapitel Dateien verarbeiten
+- caption: Empfehlungen
+  chapters:
+  - file: ch-empfehlungen/01-installationsempfehlungen.md
+    title: Python installieren
+  - file: ch-empfehlungen/02-zitierempfehlungen.md
+    title: Code zitieren
+  - file: ch-empfehlungen/03-ressourcen.md
+    title: Ressourcen
+    sections:
+    - file: ch-empfehlungen/04-atomare-datentypen-ressourcen.md
+      title: Atomare Datentypen
+    - file: ch-empfehlungen/05-programmablaeufe-strukturieren-ressourcen.md
+      title: Programmabläufe strukturieren
+    - file: ch-empfehlungen/06-komplexe-datentypen-ressourcen.md
+      title: Komplexe Datentypen
+    - file: ch-empfehlungen/07-dateien-verarbeiten-ressourcen.md
+      title: Dateien verarbeiten
+- caption: Appendix
+  chapters:
+  - file: ch-daten/part01-python-basics-daten.ipynb
+    title: Nachweis der Daten
+  - file: ch-appendix/01-glossar.md
+    title: Glossar
+  - file: genindex
+    title: Index
