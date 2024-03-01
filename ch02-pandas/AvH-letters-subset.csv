@@ -1,0 +1,51 @@
+reference,edition_id,sender_id,sender,receiver_id,receiver,date,place_id,place
+https://edition-humboldt.de/H0002655,#AVHR,http://d-nb.info/gnd/118554700,Alexander von Humboldt,http://d-nb.info/gnd/118805193,Samuel Thomas von Soemmerring,1793-12-05,http://sws.geonames.org/6556797,Berg
+https://edition-humboldt.de/H0002730,#AVHR,http://d-nb.info/gnd/118554700,Alexander von Humboldt,http://d-nb.info/gnd/118805193,Samuel Thomas von Soemmerring,1794-02-06,http://sws.geonames.org/2951825,Bayreuth
+https://edition-humboldt.de/H0002729,#AVHR,http://d-nb.info/gnd/118554700,Alexander von Humboldt,http://d-nb.info/gnd/118805193,Samuel Thomas von Soemmerring,1795-06-07,http://sws.geonames.org/2951825,Bayreuth
+https://edition-humboldt.de/H0002657,#AVHR,http://d-nb.info/gnd/118554700,Alexander von Humboldt,http://d-nb.info/gnd/118805193,Samuel Thomas von Soemmerring,1795-06-29,http://sws.geonames.org/2919290,Goldkronach
+https://edition-humboldt.de/H0001183,#AVHR,http://d-nb.info/gnd/118554700,Alexander von Humboldt,http://d-nb.info/gnd/117387436,Karl Ludwig Willdenow,1795-07-17,http://sws.geonames.org/2951825,Bayreuth
+https://edition-humboldt.de/H0002658,#AVHR,http://d-nb.info/gnd/118554700,Alexander von Humboldt,http://d-nb.info/gnd/118805193,Samuel Thomas von Soemmerring,1796-02-07,http://sws.geonames.org/2951825,Bayreuth
+https://edition-humboldt.de/H0002727,#AVHR,http://d-nb.info/gnd/118554700,Alexander von Humboldt,http://d-nb.info/gnd/118805193,Samuel Thomas von Soemmerring,1796-04-09,,
+https://edition-humboldt.de/H0001182,#AVHR,http://d-nb.info/gnd/118554700,Alexander von Humboldt,http://d-nb.info/gnd/118805193,Samuel Thomas von Soemmerring,1796-05-01,http://sws.geonames.org/2951825,Bayreuth
+https://edition-humboldt.de/H0008511,#AVHR,http://d-nb.info/gnd/118554700,Alexander von Humboldt,http://d-nb.info/gnd/118805193,Samuel Thomas von Soemmerring,1796-05-08,http://sws.geonames.org/2951825,Bayreuth
+https://edition-humboldt.de/H0001199,#AVHR,http://d-nb.info/gnd/118554700,Alexander von Humboldt,http://d-nb.info/gnd/117387436,Karl Ludwig Willdenow,1796-12-20,http://sws.geonames.org/2951825,Bayreuth
+https://edition-humboldt.de/H0001181,#AVHR,http://d-nb.info/gnd/118554700,Alexander von Humboldt,http://d-nb.info/gnd/117387436,Karl Ludwig Willdenow,1801-02-21,http://sws.geonames.org/3553478,Havanna
+https://edition-humboldt.de/H0006053,#AVHR,http://d-nb.info/gnd/118554700,Alexander von Humboldt,http://d-nb.info/gnd/117387436,Karl Ludwig Willdenow,1801-03-04,http://sws.geonames.org/3553478,Havanna
+https://edition-humboldt.de/H0006056,#AVHR,http://d-nb.info/gnd/118554700,Alexander von Humboldt,http://d-nb.info/gnd/117387436,Karl Ludwig Willdenow,1803-04-29,http://sws.geonames.org/3996063,Mexiko
+https://edition-humboldt.de/H0006509,#AVHR,http://d-nb.info/gnd/118554700,Alexander von Humboldt,http://d-nb.info/gnd/117387436,Karl Ludwig Willdenow,1805-02-01,http://sws.geonames.org/2988507,
+https://edition-humboldt.de/H0020386,#AVHR,http://d-nb.info/gnd/118554700,Alexander von Humboldt,http://d-nb.info/gnd/116061146,Dietrich Ludwig Gustav Karsten,1805-09-10,http://sws.geonames.org/3169070,
+https://edition-humboldt.de/H0006055,#AVHR,http://d-nb.info/gnd/118554700,Alexander von Humboldt,http://d-nb.info/gnd/117387436,Karl Ludwig Willdenow,1810-05-17,http://sws.geonames.org/2988507,
+https://edition-humboldt.de/H0006054,#AVHR,http://d-nb.info/gnd/118661604,Aimé Bonpland,http://d-nb.info/gnd/117387436,Karl Ludwig Willdenow,1811-10-10,http://sws.geonames.org/2988507,
+https://edition-humboldt.de/H0015058,#AVHR,http://d-nb.info/gnd/118554700,Alexander von Humboldt,http://d-nb.info/gnd/115674667,Carl Sigismund Kunth,1813-04-27,http://sws.geonames.org/2988507,
+https://edition-humboldt.de/H0014746,#AVHR,http://d-nb.info/gnd/118554700,Alexander von Humboldt,http://d-nb.info/gnd/115674667,Carl Sigismund Kunth,1817-11-11,http://sws.geonames.org/2643743,London
+https://edition-humboldt.de/H0016726,#AVHR,http://d-nb.info/gnd/118554700,Alexander von Humboldt,http://d-nb.info/gnd/118529250,Christian Gottfried Ehrenberg,1820-04-15,http://sws.geonames.org/2988507,
+https://edition-humboldt.de/H0014540,#AVHR,http://d-nb.info/gnd/116652292,Aylmer Bourke Lambert,http://d-nb.info/gnd/118554700,Alexander von Humboldt,1820-11-14,http://sws.geonames.org/2643743,London
+https://edition-humboldt.de/H0000699,#AVHR,http://d-nb.info/gnd/117662933,George Arnott Walker-Arnott,http://d-nb.info/gnd/118554700,Alexander von Humboldt,1822-03-14,http://sws.geonames.org/2650225,Edinburgh
+https://edition-humboldt.de/H0006050,#AVHR,http://d-nb.info/gnd/117662933,George Arnott Walker-Arnott,http://d-nb.info/gnd/118554700,Alexander von Humboldt,1825-03-15,http://sws.geonames.org/2988507,
+https://edition-humboldt.de/H0017851,#AVHR,http://d-nb.info/gnd/118554700,Alexander von Humboldt,http://d-nb.info/gnd/118750321,Johann Moritz Rugendas,1825-10-22,http://sws.geonames.org/2988507,
+https://edition-humboldt.de/H0017853,#AVHR,http://d-nb.info/gnd/118750321,Johann Moritz Rugendas,http://d-nb.info/gnd/118554700,Alexander von Humboldt,1825-12-12,http://sws.geonames.org/2954172,Augsburg
+https://edition-humboldt.de/H0017856,#AVHR,http://d-nb.info/gnd/118750321,Johann Moritz Rugendas,http://d-nb.info/gnd/118554700,Alexander von Humboldt,1826-01-20,http://sws.geonames.org/2954172,Augsburg
+https://edition-humboldt.de/H0017855,#AVHR,http://d-nb.info/gnd/118554700,Alexander von Humboldt,http://d-nb.info/gnd/118750321,Johann Moritz Rugendas,1826-02-01,http://sws.geonames.org/2988507,
+https://edition-humboldt.de/H0017854,#AVHR,http://d-nb.info/gnd/118750321,Johann Moritz Rugendas,http://d-nb.info/gnd/118554700,Alexander von Humboldt,1826-03-20,http://sws.geonames.org/2954172,Augsburg
+https://edition-humboldt.de/H0002728,#AVHR,http://d-nb.info/gnd/118554700,Alexander von Humboldt,http://d-nb.info/gnd/118805193,Samuel Thomas von Soemmerring,1826-12-17,,
+https://edition-humboldt.de/H0019727,#AVHR,http://d-nb.info/gnd/118554700,Alexander von Humboldt,http://d-nb.info/gnd/118750321,Johann Moritz Rugendas,1827-04-11,http://sws.geonames.org/2988507,
+https://edition-humboldt.de/H0002923,#AVHR,http://d-nb.info/gnd/118554700,Alexander von Humboldt,http://d-nb.info/gnd/115674667,Carl Sigismund Kunth,1827-07-17,http://sws.geonames.org/2950159,
+https://edition-humboldt.de/H0016738,#AVHR,http://d-nb.info/gnd/118554700,Alexander von Humboldt,http://d-nb.info/gnd/118529250,Christian Gottfried Ehrenberg,1828-04-17,http://sws.geonames.org/2950159,
+https://edition-humboldt.de/H0016544,#AVHR,http://d-nb.info/gnd/118529250,Christian Gottfried Ehrenberg,http://d-nb.info/gnd/118554700,Alexander von Humboldt,1828-04-19,http://sws.geonames.org/2950159,
+https://edition-humboldt.de/H0016733,#AVHR,http://d-nb.info/gnd/118554700,Alexander von Humboldt,http://d-nb.info/gnd/118529250,Christian Gottfried Ehrenberg,1828-07-14,http://sws.geonames.org/2950159,
+https://edition-humboldt.de/H0015158,#AVHR,http://d-nb.info/gnd/118554700,Alexander von Humboldt,http://d-nb.info/gnd/115674667,Carl Sigismund Kunth,1828-09-01,http://sws.geonames.org/2950159,
+https://edition-humboldt.de/H0016752,#AVHR,http://d-nb.info/gnd/118554700,Alexander von Humboldt,http://d-nb.info/gnd/118529250,Christian Gottfried Ehrenberg,1828-09-23,http://sws.geonames.org/2950159,
+https://edition-humboldt.de/H0016734,#AVHR,http://d-nb.info/gnd/118554700,Alexander von Humboldt,http://d-nb.info/gnd/118529250,Christian Gottfried Ehrenberg,1829-02-20,http://sws.geonames.org/2950159,
+https://edition-humboldt.de/H0019721,#AVHR,http://d-nb.info/gnd/118750321,Johann Moritz Rugendas,http://d-nb.info/gnd/118554700,Alexander von Humboldt,1829-02-20,http://sws.geonames.org/3169070,
+https://edition-humboldt.de/H0016736,#AVHR,http://d-nb.info/gnd/118554700,Alexander von Humboldt,http://d-nb.info/gnd/118529250,Christian Gottfried Ehrenberg,1829-02-23,http://sws.geonames.org/2950159,
+https://edition-humboldt.de/H0002654,#AVHR,http://d-nb.info/gnd/118554700,Alexander von Humboldt,http://d-nb.info/gnd/118966243,Karl Christian Gmelin,1829-03-03,http://sws.geonames.org/2950159,
+https://edition-humboldt.de/H0002242,#AVHR,http://d-nb.info/gnd/118554700,Alexander von Humboldt,http://d-nb.info/gnd/116962437,Franz Julius Ferdinand Meyen,1829-03-11,http://sws.geonames.org/2950159,
+https://edition-humboldt.de/H0019579,#AVHR,http://d-nb.info/gnd/118554700,Alexander von Humboldt,http://d-nb.info/gnd/118750321,Johann Moritz Rugendas,1829-03-23,http://sws.geonames.org/2950159,
+https://edition-humboldt.de/H0016743,#AVHR,http://d-nb.info/gnd/118554700,Alexander von Humboldt,http://d-nb.info/gnd/118529250,Christian Gottfried Ehrenberg,1829-03-25,http://sws.geonames.org/2950159,
+https://edition-humboldt.de/H0019580,#AVHR,http://d-nb.info/gnd/118554700,Alexander von Humboldt,http://d-nb.info/gnd/118750321,Johann Moritz Rugendas,1829-04-03,http://sws.geonames.org/2950159,
+https://edition-humboldt.de/H0016739,#AVHR,http://d-nb.info/gnd/118554700,Alexander von Humboldt,http://d-nb.info/gnd/118529250,Christian Gottfried Ehrenberg,1829-04-12,http://sws.geonames.org/2950159,
+https://edition-humboldt.de/H0019138,#AVHR,http://d-nb.info/gnd/118554700,Alexander von Humboldt,http://d-nb.info/gnd/1283497972,Adolphe Graf von Polier,1829-04-18,http://sws.geonames.org/535730,Lesnoi
+https://edition-humboldt.de/H0019136,#AVHR,http://d-nb.info/gnd/118554700,Alexander von Humboldt,http://d-nb.info/gnd/1283497972,Adolphe Graf von Polier,1829-09-14,http://sws.geonames.org/1498894,Miass (Stadt)
+https://edition-humboldt.de/H0019134,#AVHR,http://d-nb.info/gnd/118554700,Alexander von Humboldt,http://d-nb.info/gnd/1283497972,Adolphe Graf von Polier,1829-11-27,http://sws.geonames.org/524901,Moskau
+https://edition-humboldt.de/H0016749,#AVHR,http://d-nb.info/gnd/118554700,Alexander von Humboldt,http://d-nb.info/gnd/118529250,Christian Gottfried Ehrenberg,1830-02-08,http://sws.geonames.org/2950159,
+https://edition-humboldt.de/H0019137,#AVHR,http://d-nb.info/gnd/118554700,Alexander von Humboldt,http://d-nb.info/gnd/1283497972,Adolphe Graf von Polier,1830-02-26,http://sws.geonames.org/2950159,
