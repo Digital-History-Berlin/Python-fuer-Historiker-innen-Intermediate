@@ -29,14 +29,16 @@ parts:
   - file: ch02-pandas/01-pandas.md
     title: Pandas
     sections: 
-    - file: ch02-programmablaeufe-strukturieren/02-bedingte-anweisungen.ipynb
-      title: Bedingte Anweisungen
-    - file: ch02-programmablaeufe-strukturieren/03-schleifen.ipynb
-      title: Schleifen
-    - file: ch02-programmablaeufe-strukturieren/04-funktionen.ipynb
-      title: Funktionen
-    - file: ch02-programmablaeufe-strukturieren/05-pseudocode.ipynb
-      title: Pseudocode
+    - file: ch02-pandas/02-intro-pandas.ipynb
+      title: Grundlagen pandas
+    - file: ch02-pandas/03-api-correspsearch.ipynb
+      title: Daten der correspsearch-API
+    - file: ch02-pandas/04-xml-fulltext.ipynb
+      title: Von TEI-XML zum Volltext
+    - file: ch02-pandas/05-intro-eda.ipynb
+      title: Explorative Datenanalyse
+    - file: ch02-pandas/06-exkurs-regex.ipynb
+      title: Reguläre Ausdrücke
   - file: ch03-komplexe-datenstrukturen/01-komplexe-datenstrukturen.ipynb
     title: Komplexe Datenstrukturen
     sections: 
