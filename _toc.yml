@@ -44,9 +44,9 @@ parts:
     sections: 
     - file: ch03-plotten/02-intro-matplotlib.ipynb
       title: Einstieg Matplotlib
-    - file: ch03-komplexe-datenstrukturen/03-tupel.ipynb
-      title: Tupel
-    - file: ch03-komplexe-datenstrukturen/04-sets.ipynb
+    - file: ch03-plotten/03-intro-seaborn.ipynb
+      title: Einstieg seaborn
+    - file: ch03-plotten/04-intro-wordclouds.ipynb
       title: Sets
     - file: ch03-komplexe-datenstrukturen/05-dictionaries.ipynb
       title: Dictionaries

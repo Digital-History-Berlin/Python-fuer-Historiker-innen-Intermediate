@@ -13,3 +13,5 @@ Für dieses Abschnitt empfehlen wir Ihnen die folgenden zusätzlichen Ressourcen
 
 - [Paul Vierthaler: Hacking the Humanities - Visualization with Matplotlib](https://www.youtube.com/watch?v=TtQUlhcsFuE&list=PL6kqrM2i6BPIpEF5yHPNkYhjHm-FYWh17&index=17&pbjreload=101)
 - [Matplotlib](https://matplotlib.org/3.3.3/contents.html)
+- [seaborn](https://seaborn.pydata.org/index.html)
+- [The Python Graph Gallery](https://python-graph-gallery.com/)
