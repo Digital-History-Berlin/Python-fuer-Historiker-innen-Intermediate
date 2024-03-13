@@ -44,12 +44,12 @@ parts:
     sections: 
     - file: ch03-plotten/02-intro-matplotlib.ipynb
       title: Einstieg Matplotlib
-    - file: ch03-plotten/03-intro-seaborn.ipynb
+    - file: ch03-plotten/03-plotten-matplotlib-pandas.ipynb
+      title: Daten visualisieren
+    - file: ch03-plotten/04-intro-seaborn.ipynb
       title: Einstieg seaborn
-    - file: ch03-plotten/04-intro-wordclouds.ipynb
-      title: Sets
-    - file: ch03-komplexe-datenstrukturen/05-dictionaries.ipynb
-      title: Dictionaries
+    - file: ch03-plotten/05-intro-wordclouds.ipynb
+      title: Wordclouds
   - file: ch04-dateien-verarbeiten/01-dateien-verarbeiten.ipynb
     title: Dateien verarbeiten
     sections:
