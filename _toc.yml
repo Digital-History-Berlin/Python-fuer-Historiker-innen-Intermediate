@@ -50,19 +50,10 @@ parts:
       title: Einstieg seaborn
     - file: ch03-plotten/05-intro-wordclouds.ipynb
       title: Wordclouds
-  - file: ch04-dateien-verarbeiten/01-dateien-verarbeiten.ipynb
-    title: Dateien verarbeiten
-    sections:
-    - file: ch04-dateien-verarbeiten/02-dateien-i-o.ipynb
-      title: Dateien öffnen, lesen, bearbeiten
-    - file: ch04-dateien-verarbeiten/03-json.ipynb
-      title: JSON
-    - file: ch04-dateien-verarbeiten/04-csv.ipynb
-      title: CSV
 - caption: Lösungen zu den Aufgaben
   chapters:
-  - file: ch-loesungen/part01-python-basics-loesungen.ipynb
-    title: Lösungen Python Basics
+  - file: ch-loesungen/01-python-intermediate-loesungen.ipynb
+    title: Lösungen Python Intermediate
     sections: 
     - file: ch-loesungen/ch02-programmablaeufe-strukturieren-loesungen.ipynb
       title: Kapitel Programmabläufe strukturieren
@@ -79,17 +70,17 @@ parts:
   - file: ch-empfehlungen/03-ressourcen.md
     title: Ressourcen
     sections:
-    - file: ch-empfehlungen/04-atomare-datentypen-ressourcen.md
-      title: Atomare Datentypen
-    - file: ch-empfehlungen/05-programmablaeufe-strukturieren-ressourcen.md
-      title: Programmabläufe strukturieren
-    - file: ch-empfehlungen/06-komplexe-datentypen-ressourcen.md
-      title: Komplexe Datentypen
-    - file: ch-empfehlungen/07-dateien-verarbeiten-ressourcen.md
-      title: Dateien verarbeiten
+    # - file: ch-empfehlungen/04-atomare-datentypen-ressourcen.md
+    #   title: Atomare Datentypen
+    # - file: ch-empfehlungen/05-programmablaeufe-strukturieren-ressourcen.md
+    #   title: Programmabläufe strukturieren
+    # - file: ch-empfehlungen/06-komplexe-datentypen-ressourcen.md
+    #   title: Komplexe Datentypen
+    # - file: ch-empfehlungen/07-dateien-verarbeiten-ressourcen.md
+    #   title: Dateien verarbeiten
 - caption: Appendix
   chapters:
-  - file: ch-daten/part01-python-basics-daten.ipynb
+  - file: ch-daten/01-python-intermediate-daten.ipynb
     title: Nachweis der Daten
   - file: ch-appendix/01-glossar.md
     title: Glossar

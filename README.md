@@ -3,7 +3,7 @@
 
 # Python für Historiker:innen - Intermediate
 
-Das Jupyter Book richtet sich an Historiker:innen, die einen bereits erste Erfahrungen mit der Programmiersprache Python gesammelt haben und die nächsten praktischen Schritte zum computationellen Arbeiten mit Daten gehen wollen. 
+Das Jupyter Book richtet sich an Historiker:innen, die bereits erste Erfahrungen mit der Programmiersprache Python gesammelt haben und die nächsten praktischen Schritte zum computationellen Arbeiten mit Daten gehen wollen. 
 
 Autor:innen: [Melanie Althage](https://www.geschichte.hu-berlin.de/de/bereiche-und-lehrstuehle/digital-history/personen/althage), [Martin Dröge](https://www.geschichte.hu-berlin.de/de/bereiche-und-lehrstuehle/digital-history/personen/dr-martin-droege), [Sophie Eckenstaler](https://www.geschichte.hu-berlin.de/de/bereiche-und-lehrstuehle/digital-history/personen/sophie-eckenstaler), [Torsten Hiltmann](https://www.geschichte.hu-berlin.de/de/bereiche-und-lehrstuehle/digital-history/personen/torsten-hiltmann), [Philipp Schneider](https://www.geschichte.hu-berlin.de/de/bereiche-und-lehrstuehle/digital-history/personen/philipp-schneider-m-a)
 

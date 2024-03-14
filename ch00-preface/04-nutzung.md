@@ -44,6 +44,15 @@ Wenn Sie lieber in der Umgebung des Jupyter Books bleiben möchten, bietet sich 
 
 Natürlich können Sie die Notebooks aber auch lokal mit Ihrer persönlichen Programmierumgebung auf Ihrem Rechner bearbeiten. Über den Downloadbutton können die einzelnen Notebooks als `.ipynb`-Datei heruntergeladen werden. Auch die Möglichkeit eines PDF-Exports steht zur Verfügung, ist für die interaktive Arbeit mit dem Jupyter Book aber weniger gut geeignet.
 
+## Wie funktionieren JupyterNotebooks?
+
+Speziell für diese Frage empfehlen wir Ihnen die folgenden Ressourcen:
+
+- [Jupyter-Notebook-Dokumentation](https://jupyter-notebook.readthedocs.io/en/stable/)
+- [Einführung von Quinn Dombrowski et al. auf The Programming Historian](https://programminghistorian.org/en/lessons/jupyter-notebooks)
+- [YouTube-Tutorial von Michael Fudge (Kurzüberblick: 7 Minuten)](https://www.youtube.com/watch?v=jZ952vChhuI)
+- [YouTube-Tutorial von Corey Schafer (ausführlich: 30 Minuten)](https://www.youtube.com/watch?v=HW29067qVWk)
+
 ## Wo finden Sie zusätzliche Materialien?
 
 Für einige Kapitel und Aufgaben werden zusätzliche Materialien wie konkrete Quellen benötigt. **[Hier](/ch-daten/part01-python-basics-daten.ipynb)** finden Sie die entsprechenden Datensätze hinterlegt.
