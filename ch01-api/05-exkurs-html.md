@@ -1,3 +1,4 @@
+(html-basics)=
 ## Exkurs: HTML-Basics
 
 Wie Sie feststellen werden, handelt es sich bei heruntergeladenen Websites jeweils um ein HTML-Dokument, das die Grundlage für die im Browser visualisierte Repräsentation ist. Wie der Datentyp *string* nahelegt, sind HTML-Dokumente reine Textdateien, deren Inhalte durch Tags und Elemente genauer spezifiziert werden und dem Browser signalisieren, wie die entsprechenden Inhalte dargestellt werden sollen. Wenn wir diese Inhalte nun extrahieren wollen, dann müssen wir uns die Struktur des HTML-Dokuments genau anschauen. 
@@ -28,7 +29,7 @@ Hier sind noch einige weitere typische Elemente, die Sie in HTML-Dokumenten find
 - Ähnlich wie `div`-Elemente dienen `<ol> ... </ol>`, `<ul> ... </ul>` und `<li> ... </li>` zur Strukturierung von Inhalten. Die Tag-Paare `ol` und `ul` repräsentieren jeweils (un)geordnete Listen und `li`-Tags einzelne Elemente (un)geordneter Listen
 - `<a href="URL"> TEXT </a>`: Anker-Tags definieren Verweise auf andere Webadressen. Die URL, auf die der von den Tags eingefasste Text verlinkt, wird durch das `href`-Attribut referenziert.
 - weitere universale Attribute sind
- - `id` zur Referenzierung eines einzigen Elements innerhalb eines Dokuments sowie
- - `class` zur Zuordnung eines Elements zu einer oder mehreren Klassen
+- `id` zur Referenzierung eines einzigen Elements innerhalb eines Dokuments sowie
+- `class` zur Zuordnung eines Elements zu einer oder mehreren Klassen
 
- Der Quellcode lässt sich über eine im Webbrowser angezeigte Webseite aufrufen, indem durch Rechtsklick das Kontextmenü geöffnet und entweder „Seitenquelltext anzeigen“ oder, nach Auswahl eines spezifischen Webseitenelements, „Element untersuchen“ ausgewählt wird. Letzteres ist eine nützliche Funktion, die einige Webbrowser wie Mozilla Firefox anbieten, um gezielt den strukturellen Aufbau zu untersuchen.
+Der Quellcode lässt sich über eine im Webbrowser angezeigte Webseite aufrufen, indem durch Rechtsklick das Kontextmenü geöffnet und entweder „Seitenquelltext anzeigen“ oder, nach Auswahl eines spezifischen Webseitenelements, „Element untersuchen“ ausgewählt wird. Letzteres ist eine nützliche Funktion, die einige Webbrowser wie Mozilla Firefox anbieten, um gezielt den strukturellen Aufbau zu untersuchen.

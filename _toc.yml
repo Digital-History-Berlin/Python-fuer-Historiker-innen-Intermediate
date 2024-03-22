@@ -3,8 +3,6 @@ root: home.md
 parts:
 - caption: Preface
   chapters: 
-  - file: ch00-preface/01-vorwort.md
-    title: Vorwort
   - file: ch00-preface/02-einfuehrung.md
     title: Einführung
   - file: ch00-preface/03-python-infos.md

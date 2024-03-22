@@ -2,104 +2,106 @@
 
 :::{glossary}
 
-Dataframe
-    => short description
+Access Token
+    Ein Zugriffstoken (Access Token) ist eine spezielle Art von Sicherheitstoken, das einem Benutzer oder einer Anwendung Zugriff auf bestimmte Ressourcen gewährt und häufig in Authentifizierungsprotokollen wird.
 
-Series
-    => short description
+Anaconda
+    Anaconda ist eine umfassende Open-Source-Plattform für Data Science und maschinelles Lernen, die eine große Auswahl an Werkzeugen und Bibliotheken wie Python, R und Jupyter Notebooks in einem einfach zu installierenden Paket bietet.
 
-
-<!-- 
-TODO:
-Glossar anpassen und einfügen
-
-Anweisung
-    Eine Anweisung ist im einfachsten Fall eine Zeile Quelltext. Ein Python-Programm setzt sich aus mehreren Anweisungen zusammen. Manche Anweisungen bestehen aus Anweisungskopf und eingerücktem Anweisungskörper, der weitere Anweisungen enthalten kann.
+Attribute
+    Attribute in Python sind Informationen, die einem Objekt zugeordnet sind und seine Eigenschaften oder Zustände beschreiben.
 
 API
     Ein Application Programming Interface ist eine Programmierschnittstelle über die Daten ausgetauscht werden können oder die eine Anbindung an eine andere Software ermöglicht.
 
-Argument
-    Ein Argument ist eine Instanz, die einer Funktion übergeben wird (siehe auch -> *Parameter*).
+bin
+    Ein *bin* im Zusammenhang mit Histogrammen bezieht sich auf die diskreten Intervalle, in die die Daten im Histogramm gruppiert werden, um die Verteilung der Daten zu visualisieren.
 
 [Binder](https://mybinder.org/)
-    Mit Binder können Notebooks, die in einem Git-Repository hinterlegt sind, als ausführbare Notebooks genutzt werden. Binder stellt die notwendigen Serverkapazität kostenfrei zur Verfügung. 
+    Mit Binder können Notebooks, die in einem Git-Repository hinterlegt sind, als ausführbare Notebooks genutzt werden. Binder stellt die notwendigen Serverkapazität kostenfrei zur Verfügung.
 
-Codeblock
-    In einem Codeblock oder einer Codezelle steht in einem Notebook der ausführbare Code.
+booleschen Maskierung
+    Boolesche Maskierung ist ein Verfahren, bei dem eine boolesche Bedingung auf eine Datenstruktur angewendet wird, um Werte auszuwählen oder zu filtern, die der Bedingung entsprechen.
 
-default
-    Eine default-Einstellung bezeichnet den voreingestellten Standardwert.
+Conda
+    Conda ist ein Paketmanager für Python, der das Erstellen, Verwalten und Verteilen von Paketen sowie die Erstellung von virtuellen Umgebungen zur Isolierung von Projektabhängigkeiten ermöglicht.
 
-docstrings
-    Docstrings sind spezielle Kommentare im Quelltext. Diese können als Hilfetexte über die Hilfefunktion `help()` aufgerufen werden.
+Dataframes
+    Ein Pandas DataFrame ist eine zweidimensionale Datenstruktur in Python, die Daten in tabellarischer Form organisiert und zahlreiche Funktionen für die Datenmanipulation und -analyse bietet.
 
-Dokumentation
-    In einer Dokumentation sind die Funktionalitäten etwa von Python selbst oder einem Python-Paket aufgeführt und können leicht nachgeschlagen werden. 
+Endpoint
+    Ein API-Endpoint ist eine spezifische URL, die von einer API bereitgestellt wird, um Anfragen entgegenzunehmen und Antworten zurückzugeben, um bestimmte Funktionen oder Ressourcen zu erhalten.
 
-dynamisch typisiert
-    Bei einer dynamischen Typisierung werden die Prüfungen von Datentypen vornehmlich zur Laufzeit eines Programms durchgeführt.
+explorative Datenanalyse
+    Explorative Datenanalyse ist ein Ansatz zur Untersuchung von Daten, um Muster, Trends und Beziehungen zu entdecken und Einblicke zu gewinnen, bevor formale statistische Modelle angewendet werden.
 
-Elemente
-    Ein Element ist ein Wert, der in iterierbaren Datentypen enthalten ist, bspw. in einer Python-Liste. 
+HTML
+    HTML (Hypertext Markup Language) ist eine Auszeichnungssprache zur Strukturierung von Webinhalten mithilfe von Tags, um deren semantische Bedeutung zu definieren und sie im Webbrowser darzustellen.
 
-Funktionsaufruf
-    Eine zuvor definierte Funktion wird aufgerufen, indem der Funktionsname mit den sich anschließenden zwei Klammern eingegeben wird, ggf. werden der Funktion Argumente übergeben.
+JSON
+    JSON (JavaScript Object Notation) ist ein leichtgewichtiges Datenaustauschformat, das menschenlesbar ist und häufig in der Webentwicklung verwendet wird, um strukturierte Daten zwischen Client und Server zu übertragen.
 
-immutable
-    Einige Datentypen sind unveränderbar (immutable). Der Wert einer Instanz lässt sich zur Laufzeit des Programms nicht ändern.
+Kommandozeile
+    Die Kommandozeile ist eine textbasierte Benutzerschnittstelle, die es ermöglicht, Befehle direkt an das Betriebssystem zu senden und Aufgaben durch Eingabe von Textbefehlen auszuführen.
 
-items
-    Ein item ist ein Wert, der in iterierbaren Datentypen bspw. in einer Python-Liste enthalten ist, siehe auch -> *Element*.
-
-Interpreter
-    Ein Interpreter führt den Programmcode einer interpretierten Programmiersprache Zeile für Zeile aus.
-
-Instanzen
-    Instanzen sind konkrete Datenobjekte, die im Speicher hinterlegt sind und nach einem bestimmten Datentyp erzeugt worden sind.
-
-iterierbar
-    Ein iterierbares Objekt kann mit einer `for`-Schleife durchlaufen werden, um auf einzelne Elemente bspw. einer Lister oder eines Strings zuzugreifen.
-
-Konkatenierung
-    Bei einer Kokatenierung werden Objekte vom Datentyp String miteinander verkettet.
+Literalen
+    Ein Literal ist eine direkte Darstellung eines Wertes innerhalb eines Programmcodes, der nicht durch eine Variable oder eine andere Ausdrucksform repräsentiert wird.
 
 Live Code
     Die Codeblöcke im Jupyterbook können direkt im Live Code ausgeführt werden. Dies ermöglicht das Tool [Thebe](https://thebe.readthedocs.io/en/latest/), welches im Hintergrund auf -> *Binder* zugreift. Der Live Code Modus kann über das Raketensymbol aufgerufen werden.
 
-logische Aussagen
-    Bei logischen Aussagen bzw. Ausdrücken werden die Vergleichsoperatoren größer, kleiner, gleich, ungleich genutzt, die Wahrheitswerte `True` oder `False` zu erzeugen.
+NANs
+    NaN (Not a Number) ist ein spezieller Wert, der in vielen Programmiersprachen verwendet wird, um anzugeben, dass ein fehlender oder undefinierter numerische Wert vorhanden ist.
+
+mergen
+    Mergen ist der Prozess, bei dem zwei oder mehr separate Datenstrukturen zusammengeführt werden, um eine einzige, kombinierte Struktur zu erstellen, wobei vorhandene Elemente aktualisiert oder neue hinzugefügt werden.
+
+Paketverwaltungsprogramm
+    Ein Paketverwaltungsprogramm ist eine Software, die die Installation, Aktualisierung und Entfernung von Softwarepaketen auf einem Computersystem automatisiert und verwaltet.
 
 Parameter
-    Ein Parameter dient als Platzhalter für Argumente. Methoden und Funktionen benötigen neben dem Funktionsaufruf ggf. weitere Parameter, um zu funktionieren. 
+    Ein Parameter ist eine Variable in einer Funktion oder Methode, die Werte akzeptiert, die der Funktion übergeben werden können, um ihr Verhalten oder Ergebnis zu beeinflussen.
 
-proprietäres Format
-    Bei einem proprietären Formaten handelt es sich im Gegensatzu zu offenen Formaten um Software- oder Dateiformate, die auf herstellerspezifischen, nicht veröffentlichen Verfahren basieren. 
+parsen
+    Parsen ist der Prozess des Analysierens oder Interpretierens von strukturierten Daten gemäß einer bestimmten Syntax, um sie in eine für die weitere Verarbeitung geeignete Form zu bringen.
 
-Rückgabewerte
-    Rückgabewerte werden von einer Funktion als Ergebnis zurückgeliefert und können als Instanz weitergenutzt werden.
+PIP
+    PIP ist ein Paketmanager für Python, der die Installation, Aktualisierung und Verwaltung von Python-Paketen und deren Abhängigkeiten erleichtert.
 
-Schlüsselwort
-    [Schlüsselwörter](https://docs.python.org/3.8/reference/lexical_analysis.html#keywords) sind Wörter, die bereits eine bestimmte Bedeutung haben, um bspw. das Programm zu steuern. Diese Schlüsselwörter sollten nicht als Variablen genutzt werden.
+Reguläre Ausdrücke
+    Reguläre Ausdrücke sind spezielle Zeichenfolgenmuster, die verwendet werden, um Texte basierend auf vordefinierten Kriterien oder Regeln zu durchsuchen, zu extrahieren oder zu manipulieren.
 
-Sequenz
-    Eine Sequenz ist ein Datentyp der Folgen von gleichartigen oder verschiedenen Elementen enthält. Die darin gespeicherten Elemente haben eine definierte Reihenfolge und über Indizes kann auf diese Elemente zugegriffen werden.
+Series
+    Eine Pandas Series ist eine eindimensionale Datenstruktur in Python, die eine geordnete Sequenz von Werten mit einem zugehörigen Index darstellt.
 
-sequenziell
-    Sequenzielle Datentypen enthalten Folgen von gleichartigen oder verschiedenen Elementen. Die darin gespeicherten Elemente haben eine definierte Reihenfolge und über Indizes kann auf diese Elemente zugegriffen werden.
+Server
+    Ein Server ist ein Computer oder eine Software, die auf Anfragen reagiert und Dienste oder Ressourcen bereitstellt, wie das Bereitstellen von Webseiten, Datenbankzugriff oder das Hosting von Anwendungen.
 
-statisch typisierten
-    Bei einer statischen Typisierung werden die Datentypen von Variablen während der Kompilierung des Programmes festgelegt.
+Statuscode
+    Ein Statuscode ist eine numerische Kennung, die von einem Server an einen Client zurückgegeben wird, um den Erfolg oder das Scheitern einer HTTP-Anfrage anzugeben und weitere Informationen über den Status der Anfrage zu liefern.
 
-Verkettung
-    Bei einer Verkettung werden Objekte vom Datentyp String mit Hilfe des +-Operators miteinander verbunden (siehe auch -> *Konkatenierung*).
+Stoppwörter
+    Stoppwörter sind häufig vorkommende Wörter wie "und", "oder" und "aber", die in der Textverarbeitung oft ignoriert werden, da sie wenig zur Bedeutung des Textes beitragen.
 
-Verzeichnisstruktur
-    Eine Verzeichnis- oder Ordnerstruktur ist der hierarchische Aufbau des Dateisystems eines Computers.
+Tags
+    Tags sind spezielle Textelemente in Auszeichnungssprachen wie HTML oder XML, die verwendet werden, um den Inhalt zu strukturieren und zu formatieren, indem sie dem Text semantische Bedeutung verleihen und ihn für die Darstellung im Browser oder die Verarbeitung durch Software definieren.
 
-Wahrheitswert
-    Wahrheitswerte sind `True` oder `False`.
+Terminal
+    Ein Terminal ist eine textbasierte Benutzerschnittstelle, die es ermöglicht, Befehle direkt an das Betriebssystem zu senden und Ergebnisse anzuzeigen.
 
-Zuweisung
-    Eine Zuweisung erfolgt, wenn einer Variablen ein Wert mit dem Gleichheitszeichen zugewiesen wird.     -->
+Third-Party-Paket
+    Third-party-Pakete sind Softwarepakete oder Bibliotheken, die von externen Entwicklern erstellt und nicht Teil der Standardbibliothek der verwendeten Programmiersprache sind.
+
+Token
+    In Natural Language Processing (NLP) ist ein Token eine atomare Einheit, die während der Textverarbeitung gebildet wird und einem Wort, einer Zahl, einem Satzzeichen oder einer anderen Bedeutungseinheit entspricht, um den Text in kleinere Teile zu zerlegen und weiter zu analysieren.
+
+URI
+    Eine URI (Uniform Resource Identifier) ist eine Zeichenfolge zur Identifizierung oder Lokalisierung einer Ressource, sei es im Web oder in anderen Kontexten, und sie besteht aus einem Schema, einem optionalen Autoritätsabschnitt und einem Pfad, der die Position der Ressource angibt.
+
+URL
+    Eine URL (Uniform Resource Locator) ist eine spezielle Art von URI, die eine eindeutige Adresse für eine Ressource im Internet angibt, wobei sie das Protokoll, die Domäne, den Pfad und optional weitere Informationen wie Portnummer oder Abfrageparameter enthält, um auf die Ressource zuzugreifen.
+
+XML
+    XML (eXtensible Markup Language) ist eine Auszeichnungssprache, die dazu dient, strukturierte Daten zu definieren und zu kennzeichnen, indem sie den Inhalt in markierte Elemente mit benutzerdefinierten Tags unter Verwendung einer hierarchischen Syntax gliedert, was häufig für den Austausch von Daten zwischen verschiedenen Systemen verwendet wird.
+
 :::

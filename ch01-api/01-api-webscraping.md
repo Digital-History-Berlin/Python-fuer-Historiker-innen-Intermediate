@@ -1,6 +1,6 @@
 # API ansprechen, Daten lesen und mit Beautiful Soup weiterverarbeiten
 
-In diesem Kapitel lernen Sie eine Methode, um automatisiert an Daten zu gelangen - die Nutzung von *Web APIs*. Auf diese Weise können Sie Datenbestände nutzen, die explizit für die automatisierte Weiterverarbeitung bereitgestellt wurden. APIs werden zunehmend auch von geschichtswissenschaftlichen Datengebern bereitgestellt sowohl von Forschungsprojekten, als auch von Bibliotheken und Archiven. Für die Nutzung von Daten größerer Anbieter bieten Sie eine gute Möglichkeit, um komfortabel und legal auf deren Daten zugreifen zu können.
+In diesem Kapitel lernen Sie eine Methode kennen, um automatisiert an Daten zu gelangen - die Nutzung von *Web APIs*. Auf diese Weise können Sie Datenbestände nutzen, die explizit für die automatisierte Weiterverarbeitung bereitgestellt wurden. APIs werden zunehmend auch von geschichtswissenschaftlichen Datengebern bereitgestellt sowohl von Forschungsprojekten, als auch von Bibliotheken und Archiven. Für die Nutzung von Daten größerer Anbieter bieten Sie eine gute Möglichkeit, um komfortabel und legal auf deren Daten zugreifen zu können.
 
 ## Lernziele
 

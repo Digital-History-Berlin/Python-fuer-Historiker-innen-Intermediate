@@ -55,9 +55,9 @@ Speziell für diese Frage empfehlen wir Ihnen die folgenden Ressourcen:
 
 ## Wo finden Sie zusätzliche Materialien?
 
-Für einige Kapitel und Aufgaben werden zusätzliche Materialien wie konkrete Quellen benötigt. **[Hier](/ch-daten/part01-python-basics-daten.ipynb)** finden Sie die entsprechenden Datensätze hinterlegt.
+Für einige Kapitel und Aufgaben werden zusätzliche Materialien wie konkrete Quellen benötigt. **[Hier](/ch-daten/01-python-intermediate-daten.ipynb)** finden Sie die entsprechenden Datensätze hinterlegt.
 
-Nachdem Sie die einzelnen Programmieraufgaben durchgearbeitet haben, möchten Sie vielleicht in Erfahrung bringen, ob Ihr Lösungsweg in die richtige Richtung geht: **[Hier](/ch-loesungen/part01-python-basics-loesungen.ipynb)** haben wir einige Musterlösungen gesammelt, mit denen Sie Ihren eigenen Code vergleichen können. Wichtig ist: Es gibt *nicht* den einen richtigen Weg, ein Programmierproblem zu lösen. Wenn Sie mögen, können Sie uns also Ihre Lösung als weiteres Codebeispiel zur Verfügung stellen, von dem wiederum andere lernen können. 
+Nachdem Sie die einzelnen Programmieraufgaben durchgearbeitet haben, möchten Sie vielleicht in Erfahrung bringen, ob Ihr Lösungsweg in die richtige Richtung geht: **[Hier](/ch-loesungen/01-python-intermediate-loesungen.ipynb)** haben wir einige Musterlösungen gesammelt, mit denen Sie Ihren eigenen Code vergleichen können. Wichtig ist: Es gibt *nicht* den einen richtigen Weg, ein Programmierproblem zu lösen. Wenn Sie mögen, können Sie uns also Ihre Lösung als weiteres Codebeispiel zur Verfügung stellen, von dem wiederum andere lernen können. 
 
 Zusätzlich werden unter **[Ressourcen](ressourcen)** stets weitere Materialien zu den jeweiligen Einheiten vorgeschlagen, die Sie ergänzend zu den Erläuterungen und Programmierbeispielen für die Bearbeitung der Aufgaben heranziehen können, dabei haben wir einen Mix aus text- und videobasierten Angeboten zusammengetragen. Die Ressourcenliste wird regelmäßig erweitert. Gerne nehmen wir Vorschläge von Ihnen auf.
 

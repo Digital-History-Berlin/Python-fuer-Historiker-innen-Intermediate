@@ -8,7 +8,7 @@ Es gibt in Pandas unter anderem zwei fundamentale Datenstrukturen mit denen wir 
 
 Zum Vertiefen empfehlen wir das auch online verfügbare [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) von  Jake VanderPlas, hier das Kapitel zu [Data Manipulation with Pandas](https://jakevdp.github.io/PythonDataScienceHandbook/03.00-introduction-to-pandas.html) 
 
-Für dieses Abschnitt empfehlen wir Ihnen die folgenden zusätzlichen Ressourcen:
+Für diesen Abschnitt empfehlen wir Ihnen die folgenden zusätzlichen Ressourcen:
 
 - [Paul Vierthaler: Hacking the Humanities - Pandas](https://www.youtube.com/watch?v=PETtn98dKaw&list=PL6kqrM2i6BPIpEF5yHPNkYhjHm-FYWh17&index=15)
 - [Pandas](https://pandas.pydata.org/pandas-docs/stable/reference/index.html)
