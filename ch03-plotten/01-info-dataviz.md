@@ -7,6 +7,18 @@ Graphen, Diagramme oder Karten ermöglichen uns die Identifikation von Ausreiße
 
 Um uns an diesen Bereich heranzutasten, werden wir erst einmal mit der für Python grundlegenden und vielfältigen Bibliothek [**Matplotlib**](https://matplotlib.org/) arbeiten. Sie wurde 2003 erstmals als plattformübergreifendes Visualisierungs-Paket veröffentlicht und wird von pandas standardmäßig aufgerufen, wenn auf Basis der Pandas-Objekte Visualisierungen erstellt werden sollen. Auf der Website der Bibliothek finden Sie zahlreiche nützliche Tutorials für verschiedene Visualisierungsformen: https://matplotlib.org/tutorials/index.html.
 
+## Lernziele
+
+Sie wissen, wie Sie Matplotlib und seaborn zur Datenvisualisierung einsetzen können.
+
+Sie kennen die grundlegenden Befehle von Matplotlib und seaborn.
+
+Sie können verschiedene Visualisierungstypen mit Matplotlib und seaborn umsetzen.
+
+Sie können selbstständig das grundlegende Layout der Visualisierungen anpassen.
+
+## weitere Ressourcen
+
 Zum Vertiefen empfehlen wir das auch online verfügbare [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) von  Jake VanderPlas, hier das Kapitel zu [Visualization with Matplotlib](https://jakevdp.github.io/PythonDataScienceHandbook/04.00-introduction-to-matplotlib.html) 
 
 Für dieses Abschnitt empfehlen wir Ihnen die folgenden zusätzlichen Ressourcen:

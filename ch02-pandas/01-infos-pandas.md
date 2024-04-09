@@ -6,6 +6,20 @@ Es gibt in Pandas unter anderem zwei fundamentale Datenstrukturen mit denen wir 
 - `Series`: Das `Series`-Objekt entspricht in vielerlei Hinsicht eindimensionalen Listen, zum Beispiel einer Zeitreihe oder einer einfachen Liste, wie wir sie als Datentyp schon oft verwendet haben. Ähnlich wie bei Listen werden die einzelnen Werte per Indizes referenzierbar. Die Indizes können, müssen aber nicht aus Ganzzahlen bestehen. Ebenso gut können Strings oder beliebige andere Datentypen für den Index ausgewählt werden, was sehr praktisch ist. Wir können mit `Series` also ähnlich arbeiten wie mit einfachen Dictionaries. [In der Dokumentation finden Sie alle für dieses Objekt verfügbaren Attribute und Funktionen.](https://pandas.pydata.org/pandas-docs/stable/reference/series.html)
 - `DataFrame`: Ein ``DataFrame``-Objekt besteht aus einer zweidimensionalen Tabelle. Das ist die Datenstruktur, in die wir unsere CSV-Datei verwandeln. Die einzelnen Reihen beziehungsweise Spalten können wir wie `Series`-Objekte bearbeiten. Auch das `DataFrame`-Objekt verfügt über einen modifizierbaren Index, der aus einem beliebigen Datentyp bestehen kann (standardmäßig Ganzzahlen). [In der Dokumentation finden Sie alle für dieses Objekt verfügbaren Attribute und Funktionen.](https://pandas.pydata.org/pandas-docs/stable/reference/frame.html)
 
+
+## Lernziele
+
+Sie wissen, wie Sie Pandas zur Arbeit mit Daten einsetzen können.
+
+Sie kennen die grundlegenden Befehle von Pandas.
+
+Sie können Daten in Pandas einlesen und können diese Daten visualisieren.
+
+Sie können selbstständig eine einfache explorative Datenanalyse mit Pandas durchführen.
+
+
+## weitere Ressourcen
+
 Zum Vertiefen empfehlen wir das auch online verfügbare [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) von  Jake VanderPlas, hier das Kapitel zu [Data Manipulation with Pandas](https://jakevdp.github.io/PythonDataScienceHandbook/03.00-introduction-to-pandas.html) 
 
 Für diesen Abschnitt empfehlen wir Ihnen die folgenden zusätzlichen Ressourcen:

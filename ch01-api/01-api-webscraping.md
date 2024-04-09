@@ -13,6 +13,7 @@ Sie können das `request`-Modul anwenden, um Daten über APIs herunterzuladen.
 Sie können mit der Bibliothek `Beautiful Soup` Informationen aus html-Dateien ziehen.
 
 ### weitere Ressourcen:
+
 * [Hacking the Humanities - APIs and Webscraping](https://www.youtube.com/watch?v=GTXQcHsgufo&list=PL6kqrM2i6BPIpEF5yHPNkYhjHm-FYWh17&index=22&t=0s)
 * [How To Use Web APIs in Python 3](https://www.digitalocean.com/community/tutorials/how-to-use-web-apis-in-python-3)
 * [Dokumentation der API von Old Bailey Online](https://www.oldbaileyonline.org/static/DocAPI.jsp)
