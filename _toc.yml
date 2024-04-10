@@ -53,12 +53,12 @@ parts:
   - file: ch-loesungen/01-python-intermediate-loesungen.ipynb
     title: Lösungen Python Intermediate
     sections: 
-    - file: ch-loesungen/ch02-programmablaeufe-strukturieren-loesungen.ipynb
-      title: Kapitel Programmabläufe strukturieren
-    - file: ch-loesungen/ch03-komplexe-datenstrukturen-loesungen.ipynb
-      title: Kapitel Komplexe Datenstrukturen
-    - file: ch-loesungen/ch04-dateien-verarbeiten-loesungen.ipynb
-      title: Kapitel Dateien verarbeiten
+    - file: ch-loesungen/ch01-API-loesung.ipynb
+      title: Kapitel API
+    - file: ch-loesungen/ch02-pandas-loesung.ipynb
+      title: Kapitel Pandas
+    - file: ch-loesungen/ch03-plotten-loesung.ipynb
+      title: Kapitel Plotten
 - caption: Empfehlungen
   chapters:
   - file: ch-empfehlungen/01-installationsempfehlungen.md
