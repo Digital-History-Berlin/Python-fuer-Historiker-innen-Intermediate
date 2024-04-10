@@ -37,6 +37,8 @@ parts:
       title: Explorative Datenanalyse
     - file: ch02-pandas/06-exkurs-regex.ipynb
       title: Reguläre Ausdrücke
+    - file: ch02-pandas/07-aufgabe-pandas.ipynb
+      title: Übungsaufgaben
   - file: ch03-plotten/01-info-dataviz.md
     title: Datenvisualisierung
     sections: 
@@ -48,6 +50,8 @@ parts:
       title: Einstieg seaborn
     - file: ch03-plotten/05-intro-wordclouds.ipynb
       title: Wordclouds
+    - file: ch03-plotten/06-aufgabe-plotten.ipynb
+      title: Übungsaufgaben
 - caption: Lösungen zu den Aufgaben
   chapters:
   - file: ch-loesungen/01-python-intermediate-loesungen.ipynb
