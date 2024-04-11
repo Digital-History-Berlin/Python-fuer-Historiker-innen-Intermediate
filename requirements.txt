@@ -1,0 +1,7 @@
+pandas>=2.2.2
+matplotlib>=3.8.4
+seaborn>=0.13.2
+jupyter-book>=1.0.0
+stopwordsiso>=0.6.1
+wordcloud>=1.9.3
+beautifulsoup4>=4.12.3

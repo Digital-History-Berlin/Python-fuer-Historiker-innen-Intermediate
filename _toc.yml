@@ -1,5 +1,5 @@
-format: jb-book
 root: home.md 
+format: jb-book
 parts:
 - caption: Preface
   chapters: 
@@ -71,7 +71,7 @@ parts:
     title: Code zitieren
   - file: ch-empfehlungen/03-ressourcen.md
     title: Ressourcen
-    sections:
+    #sections:
     # - file: ch-empfehlungen/04-atomare-datentypen-ressourcen.md
     #   title: Atomare Datentypen
     # - file: ch-empfehlungen/05-programmablaeufe-strukturieren-ressourcen.md

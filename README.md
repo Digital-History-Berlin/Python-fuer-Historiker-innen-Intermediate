@@ -1,5 +1,7 @@
 <!-- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6868043.svg)](https://doi.org/10.5281/zenodo.6868043) -->
-[![CC BY 4.0][cc-by-shield]][cc-by]
+[![CC BY 4.0][cc-by-shield]][cc-by] [![Open in Remote - Containers](https://xebia.com/wp-content/uploads/2023/11/v1.svg)](
+    https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?https://scm.cms.hu-berlin.de/digital-history/lehre/python-fuer-historiker-innen-intermediate
+)
 
 # Python für Historiker:innen - Intermediate
 
