@@ -8,11 +8,14 @@ Access Token
 Anaconda
     Anaconda ist eine umfassende Open-Source-Plattform für Data Science und maschinelles Lernen, die eine große Auswahl an Werkzeugen und Bibliotheken wie Python, R und Jupyter Notebooks in einem einfach zu installierenden Paket bietet.
 
-Attribute
-    Attribute in Python sind Informationen, die einem Objekt zugeordnet sind und seine Eigenschaften oder Zustände beschreiben.
-
 API
     Ein Application Programming Interface ist eine Programmierschnittstelle über die Daten ausgetauscht werden können oder die eine Anbindung an eine andere Software ermöglicht.
+
+API Key
+    Ein API Key ist eine spezielle Art von Sicherheitstoken, das einem Benutzer oder einer Anwendung Zugriff auf bestimmte Ressourcen gewährt und häufig in Authentifizierungsprotokollen wird.    
+
+Attribute
+    Attribute in Python sind Informationen, die einem Objekt zugeordnet sind und seine Eigenschaften oder Zustände beschreiben.
 
 bin
     Ein *bin* im Zusammenhang mit Histogrammen bezieht sich auf die diskreten Intervalle, in die die Daten im Histogramm gruppiert werden, um die Verteilung der Daten zu visualisieren.

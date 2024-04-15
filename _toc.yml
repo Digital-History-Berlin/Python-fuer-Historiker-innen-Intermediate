@@ -16,14 +16,16 @@ parts:
     sections:
     - file: ch01-api/02-exkurs-third-party-packages.ipynb
       title: Installation von Packages
+    - file: ch01-api/03-intro-api.ipynb
+      title: Einführung Web APIs
     - file: ch01-api/03-webseite-runterladen.ipynb
       title: Webseite dowloaden
-    - file: ch01-api/04-intro-api.ipynb
-      title: Einführung Web APIs
     - file: ch01-api/05-exkurs-html.md
-      title: HTML
+      title: Exkurs HTML
     - file: ch01-api/06-beautiful-soup.ipynb
-      title: HTML parsen mit BeautifulSoup
+      title: Parsen mit BeautifulSoup
+    - file: ch01-api/07-aufgabe-api.ipynb
+      title: Übungsaufgaben
   - file: ch02-pandas/01-pandas.md
     title: Pandas
     sections: 
@@ -36,7 +38,7 @@ parts:
     - file: ch02-pandas/05-intro-eda.ipynb
       title: Explorative Datenanalyse
     - file: ch02-pandas/06-exkurs-regex.ipynb
-      title: Reguläre Ausdrücke
+      title: Exkurs Reguläre Ausdrücke
     - file: ch02-pandas/07-aufgabe-pandas.ipynb
       title: Übungsaufgaben
   - file: ch03-plotten/01-info-dataviz.md
@@ -57,7 +59,7 @@ parts:
   - file: ch-loesungen/01-python-intermediate-loesungen.ipynb
     title: Lösungen Python Intermediate
     sections: 
-    - file: ch-loesungen/ch01-API-loesung.ipynb
+    - file: ch-loesungen/ch01-api-loesung.ipynb
       title: Kapitel API
     - file: ch-loesungen/ch02-pandas-loesung.ipynb
       title: Kapitel Pandas
