@@ -21,16 +21,25 @@ latex:
 # bibtex_bibfiles:
 #   - references.bib
 
-#sphinx:
-  #recursive_update: true
-  #config:
-    #html_theme_options:
-      #repository_provider: "gitlab"
+# If GitLab is your version control system, you can use this to link to your repository
+# Note: Live Code and Binder links will not work with GitLab currently
+sphinx:
+ recursive_update: true
+ config:
+    html_context:
+      default_mode: light
+    html_theme_options:
+      announcement: <p class="banner">⚠️ Preview (beta 0.0.1)</p>
+      #show_version_warning_banner: True
+      logo: 
+        image_light: img/Logo_DigitalHistoryBerlin.png
+        image_dark: img/Logo_DigitalHistoryBerlin_dark.png
+ #    repository_provider: "gitlab"
 
 # Information about where the book exists on the web
 repository:
-  url: https://github.com/Digital-History-Berlin/Python-fuer-Historiker-innen  # Online location of your book
-  #path_to_book: docs  # Optional path to your book, relative to the repository root
+  url: https://github.com/Digital-History-Berlin/Python-fuer-Historiker-innen-Intermediate  # Online location of your book
+  #path_to_book: ""  # Optional path to your book, relative to the repository root
   branch: main  # Which branch of the repository should be used when creating links (optional)
 
 # Add GitHub buttons to your book
@@ -50,7 +59,8 @@ html:
     </div>
 
 launch_buttons:
+  notebook_interface: classic
   binderhub_url: "https://mybinder.org"
-#  colab_url: "https://colab.research.google.com"
-#  jupyterhub_url: "https://jupyterhub.hu-berlin.de" # needs additional JupyterLab exentensions: https://jupyterbook.org/en/stable/interactive/launchbuttons.html#add-a-launch-on-jupyterhub-button
+  #colab_url: "https://colab.research.google.com"
+  #jupyterhub_url: "https://jupyterhub.hu-berlin.de" # needs additional JupyterLab exentensions: https://jupyterbook.org/en/stable/interactive/launchbuttons.html#add-a-launch-on-jupyterhub-button
   thebe: true
