@@ -26,7 +26,7 @@ parts:
       title: Parsen mit BeautifulSoup
     - file: ch01-api/07-aufgabe-api.ipynb
       title: Übungsaufgaben
-  - file: ch02-pandas/01-pandas.md
+  - file: ch02-pandas/01-infos-pandas.md
     title: Pandas
     sections: 
     - file: ch02-pandas/02-intro-pandas.ipynb
