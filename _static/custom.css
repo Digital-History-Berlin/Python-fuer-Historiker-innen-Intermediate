@@ -9,9 +9,18 @@ div.CodeMirror-code {
     font-size: 14px;
   }
 
+  div:has(p.banner)  {
+    background-color: #9CB262;
+  }
+
 p {
     font-size: 20px;
   }
+
+p.banner {
+  font-weight: 500;
+  font-size: medium;
+}
 
 span.caption-text {
     font-size: 18px;
