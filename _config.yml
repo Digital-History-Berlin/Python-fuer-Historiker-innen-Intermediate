@@ -29,7 +29,7 @@ sphinx:
     html_context:
       default_mode: light
     html_theme_options:
-      announcement: <p class="banner">⚠️ Preview (beta 0.0.1)</p>
+      announcement: <p class="banner">⚠️ Preview (beta 0.1.0)</p>
       #show_version_warning_banner: True
       logo: 
         image_light: img/Logo_DigitalHistoryBerlin.png
