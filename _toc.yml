@@ -19,7 +19,7 @@ parts:
     - file: ch01-api/03-intro-api.ipynb
       title: Einführung Web APIs
     - file: ch01-api/04-webseite-runterladen.ipynb
-      title: Webseite dowloaden
+      title: Webseite downloaden
     - file: ch01-api/05-exkurs-html.md
       title: Exkurs HTML
     - file: ch01-api/06-beautiful-soup.ipynb
