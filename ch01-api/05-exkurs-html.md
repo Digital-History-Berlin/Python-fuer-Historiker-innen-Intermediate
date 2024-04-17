@@ -1,5 +1,5 @@
 (html-basics)=
-## Exkurs: HTML-Basics
+# Exkurs: HTML-Basics
 
 Wie Sie feststellen werden, handelt es sich bei heruntergeladenen Websites jeweils um ein HTML-Dokument, das die Grundlage für die im Browser visualisierte Repräsentation ist. Wie der Datentyp *string* nahelegt, sind HTML-Dokumente reine Textdateien, deren Inhalte durch Tags und Elemente genauer spezifiziert werden und dem Browser signalisieren, wie die entsprechenden Inhalte dargestellt werden sollen. Wenn wir diese Inhalte nun extrahieren wollen, dann müssen wir uns die Struktur des HTML-Dokuments genau anschauen. 
 
