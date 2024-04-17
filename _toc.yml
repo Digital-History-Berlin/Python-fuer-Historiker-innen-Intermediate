@@ -30,9 +30,9 @@ parts:
     title: Pandas
     sections: 
     - file: ch02-pandas/02-intro-pandas.ipynb
-      title: Grundlagen pandas
+      title: Grundlagen Pandas
     - file: ch02-pandas/03-api-correspsearch.ipynb
-      title: Daten der correspsearch-API
+      title: Daten der correspSearch-API
     - file: ch02-pandas/04-xml-fulltext.ipynb
       title: Von TEI-XML zum Volltext
     - file: ch02-pandas/05-intro-eda.ipynb
