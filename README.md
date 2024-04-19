@@ -1,5 +1,7 @@
-<!-- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6868043.svg)](https://doi.org/10.5281/zenodo.6868043) -->
-[![CC BY 4.0][cc-by-shield]][cc-by] [![Open in Dev Containers](https://img.shields.io/static/v1?label=Dev%20Containers&message=Open&color=blue&logo=visualstudiocode)](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://scm.cms.hu-berlin.de/digital-history/lehre/python-fuer-historiker-innen-intermediate) ![Static Badge](https://img.shields.io/badge/Push%20Mirror-9CB262?style=flat&logo=github&link=https%3A%2F%2Fgithub.com%2FDigital-History-Berlin%2FPython-fuer-Historiker-innen-Intermediate)
+[![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](https://digital-history-berlin.github.io/Python-fuer-Historiker-innen-Intermediate) <!-- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6868043.svg)](https://doi.org/10.5281/zenodo.6868043) -->
+[![CC BY 4.0][cc-by-shield]][cc-by] 
+
+![Static Badge](https://img.shields.io/badge/Mirror-push-blue?logo=github) ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/digital-history-berlin/Python-fuer-Historiker-innen-Intermediate/build-and-deploy-book.yml) [![Open in Dev Containers](https://img.shields.io/static/v1?label=Dev%20Containers&message=Open&color=blue&logo=visualstudiocode)](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://scm.cms.hu-berlin.de/digital-history/lehre/python-fuer-historiker-innen-intermediate) 
 
 # Python für Historiker:innen - Intermediate
 
