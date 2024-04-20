@@ -1,0 +1,455 @@
+{
+    "teiHeader": {
+        "fileDesc": {
+            "titleStmt": {
+                "title": "correspSearch API 2.0 (BETA)",
+                "editor": [
+                    {
+                        "#text": "correspsearch@bbaw.de",
+                        "email": "no-email-provided@correspsearch.net"
+                    }
+                ]
+            },
+            "publicationStmt": {
+                "publisher": [
+                    {
+                        "ref": {
+                            "target": "https://www.bbaw.de/",
+                            "#text": "Berlin-Brandenburg Academy of Sciences and Humanities"
+                        }
+                    }
+                ],
+                "availability": {
+                    "licence": [
+                        {
+                            "target": "https://creativecommons.org/licenses/by/4.0/",
+                            "#text": "CC-BY 4.0"
+                        }
+                    ]
+                },
+                "idno": "https://correspsearch.net/api/v2.0/tei-json.xql?s=http://d-nb.info/gnd/118554700&amp;c=https://edition-humboldt.de/api/v1.2/cmif.xql&amp;x=8",
+                "date": {
+                    "when": "2024-04-20T17:07:51.373+02:00"
+                }
+            },
+            "notesStmt": {
+                "note": "71-80 of 523 hits",
+                "relatedItem": [
+                    {
+                        "type": "prev",
+                        "target": "https://correspsearch.net/api/v2.0/tei-json.xql?s=http://d-nb.info/gnd/118554700&amp;c=https://edition-humboldt.de/api/v1.2/cmif.xql&amp;x=7"
+                    },
+                    {
+                        "type": "next",
+                        "target": "https://correspsearch.net/api/v2.0/tei-json.xql?s=http://d-nb.info/gnd/118554700&amp;c=https://edition-humboldt.de/api/v1.2/cmif.xql&amp;x=9"
+                    }
+                ]
+            },
+            "sourceDesc": {
+                "bibl": [
+                    {
+                        "xml:id": "d238c5bd-a978-475e-8784-58ce7ec82010",
+                        "type": "online",
+                        "#text": "edition humboldt digital, hg. v. Ottmar Ette. Berlin-Brandenburgische Akademie der Wissenschaften, Berlin 2017–2023.",
+                        "ref": {
+                            "target": "https://edition-humboldt.de",
+                            "#text": "https://edition-humboldt.de"
+                        }
+                    }
+                ]
+            }
+        },
+        "profileDesc": {
+            "correspDesc": [
+                {
+                    "ref": "https://edition-humboldt.de/H0019138",
+                    "source": "#d238c5bd-a978-475e-8784-58ce7ec82010",
+                    "correspAction": [
+                        {
+                            "type": "sent",
+                            "persName": [
+                                {
+                                    "ref": "http://d-nb.info/gnd/118554700",
+                                    "#text": "Alexander von Humboldt"
+                                }
+                            ],
+                            "placeName": [
+                                {
+                                    "ref": "http://sws.geonames.org/535730",
+                                    "#text": "Lesnoi"
+                                }
+                            ],
+                            "date": [
+                                {
+                                    "when": "1829-04-18"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "received",
+                            "persName": [
+                                {
+                                    "ref": "http://d-nb.info/gnd/1283497972",
+                                    "#text": "Adolphe Graf von Polier"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "ref": "https://edition-humboldt.de/H0013748",
+                    "source": "#d238c5bd-a978-475e-8784-58ce7ec82010",
+                    "correspAction": [
+                        {
+                            "type": "sent",
+                            "persName": [
+                                {
+                                    "ref": "http://d-nb.info/gnd/118554700",
+                                    "#text": "Alexander von Humboldt"
+                                }
+                            ],
+                            "placeName": [
+                                {
+                                    "ref": "http://sws.geonames.org/2950159"
+                                }
+                            ],
+                            "date": [
+                                {
+                                    "from": "1829-08-01",
+                                    "to": "1850-03-22"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "received",
+                            "persName": [
+                                {
+                                    "ref": "http://edition-humboldt.de/H0001516",
+                                    "#text": "Marie-Josèphe Kunth"
+                                }
+                            ],
+                            "placeName": [
+                                {
+                                    "ref": "http://sws.geonames.org/2950159"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "ref": "https://edition-humboldt.de/H0019136",
+                    "source": "#d238c5bd-a978-475e-8784-58ce7ec82010",
+                    "correspAction": [
+                        {
+                            "type": "sent",
+                            "persName": [
+                                {
+                                    "ref": "http://d-nb.info/gnd/118554700",
+                                    "#text": "Alexander von Humboldt"
+                                }
+                            ],
+                            "placeName": [
+                                {
+                                    "ref": "http://sws.geonames.org/1498894",
+                                    "#text": "Miass (Stadt)"
+                                }
+                            ],
+                            "date": [
+                                {
+                                    "when": "1829-09-14"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "received",
+                            "persName": [
+                                {
+                                    "ref": "http://d-nb.info/gnd/1283497972",
+                                    "#text": "Adolphe Graf von Polier"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "ref": "https://edition-humboldt.de/H0019134",
+                    "source": "#d238c5bd-a978-475e-8784-58ce7ec82010",
+                    "correspAction": [
+                        {
+                            "type": "sent",
+                            "persName": [
+                                {
+                                    "ref": "http://d-nb.info/gnd/118554700",
+                                    "#text": "Alexander von Humboldt"
+                                }
+                            ],
+                            "placeName": [
+                                {
+                                    "ref": "http://sws.geonames.org/524901",
+                                    "#text": "Moskau"
+                                }
+                            ],
+                            "date": [
+                                {
+                                    "when": "1829-11-27"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "received",
+                            "persName": [
+                                {
+                                    "ref": "http://d-nb.info/gnd/1283497972",
+                                    "#text": "Adolphe Graf von Polier"
+                                }
+                            ],
+                            "placeName": [
+                                {
+                                    "ref": "http://sws.geonames.org/498817",
+                                    "#text": "Sankt Petersburg"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "ref": "https://edition-humboldt.de/H0006179",
+                    "source": "#d238c5bd-a978-475e-8784-58ce7ec82010",
+                    "correspAction": [
+                        {
+                            "type": "sent",
+                            "persName": [
+                                {
+                                    "ref": "http://d-nb.info/gnd/118554700",
+                                    "#text": "Alexander von Humboldt"
+                                }
+                            ],
+                            "placeName": [
+                                {
+                                    "ref": "http://sws.geonames.org/2950159"
+                                }
+                            ],
+                            "date": [
+                                {
+                                    "notBefore": "1830-01-01",
+                                    "notAfter": "1830-03-31"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "received",
+                            "persName": [
+                                {
+                                    "ref": "http://d-nb.info/gnd/116962437",
+                                    "#text": "Franz Julius Ferdinand Meyen"
+                                }
+                            ],
+                            "placeName": [
+                                {
+                                    "ref": "http://sws.geonames.org/2950159"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "ref": "https://edition-humboldt.de/H0001180",
+                    "source": "#d238c5bd-a978-475e-8784-58ce7ec82010",
+                    "correspAction": [
+                        {
+                            "type": "sent",
+                            "persName": [
+                                {
+                                    "ref": "http://d-nb.info/gnd/118554700",
+                                    "#text": "Alexander von Humboldt"
+                                }
+                            ],
+                            "placeName": [
+                                {
+                                    "ref": "http://sws.geonames.org/2950159"
+                                }
+                            ],
+                            "date": [
+                                {
+                                    "notBefore": "1830-01-01",
+                                    "notAfter": "1830-03-31"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "received",
+                            "persName": [
+                                {
+                                    "ref": "http://d-nb.info/gnd/116962437",
+                                    "#text": "Franz Julius Ferdinand Meyen"
+                                }
+                            ],
+                            "placeName": [
+                                {
+                                    "ref": "http://sws.geonames.org/2950159"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "ref": "https://edition-humboldt.de/H0006176",
+                    "source": "#d238c5bd-a978-475e-8784-58ce7ec82010",
+                    "correspAction": [
+                        {
+                            "type": "sent",
+                            "persName": [
+                                {
+                                    "ref": "http://d-nb.info/gnd/118554700",
+                                    "#text": "Alexander von Humboldt"
+                                }
+                            ],
+                            "placeName": [
+                                {
+                                    "ref": "http://sws.geonames.org/2950159"
+                                }
+                            ],
+                            "date": [
+                                {
+                                    "notBefore": "1830-01-01",
+                                    "notAfter": "1830-03-31"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "received",
+                            "persName": [
+                                {
+                                    "ref": "http://d-nb.info/gnd/116962437",
+                                    "#text": "Franz Julius Ferdinand Meyen"
+                                }
+                            ],
+                            "placeName": [
+                                {
+                                    "ref": "http://sws.geonames.org/2950159"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "ref": "https://edition-humboldt.de/H0002652",
+                    "source": "#d238c5bd-a978-475e-8784-58ce7ec82010",
+                    "correspAction": [
+                        {
+                            "type": "sent",
+                            "persName": [
+                                {
+                                    "ref": "http://d-nb.info/gnd/118554700",
+                                    "#text": "Alexander von Humboldt"
+                                }
+                            ],
+                            "placeName": [
+                                {
+                                    "ref": "http://sws.geonames.org/2950159"
+                                }
+                            ],
+                            "date": [
+                                {
+                                    "notBefore": "1830-01-01",
+                                    "notAfter": "1830-09-27"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "received",
+                            "persName": [
+                                {
+                                    "ref": "http://d-nb.info/gnd/116962437",
+                                    "#text": "Franz Julius Ferdinand Meyen"
+                                }
+                            ],
+                            "placeName": [
+                                {
+                                    "ref": "http://sws.geonames.org/2950159"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "ref": "https://edition-humboldt.de/H0016741",
+                    "source": "#d238c5bd-a978-475e-8784-58ce7ec82010",
+                    "correspAction": [
+                        {
+                            "type": "sent",
+                            "persName": [
+                                {
+                                    "ref": "http://d-nb.info/gnd/118554700",
+                                    "#text": "Alexander von Humboldt"
+                                }
+                            ],
+                            "placeName": [
+                                {
+                                    "ref": "http://sws.geonames.org/2950159"
+                                }
+                            ],
+                            "date": [
+                                {
+                                    "notBefore": "1830",
+                                    "notAfter": "1830",
+                                    "#text": "1830-00-00"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "received",
+                            "persName": [
+                                {
+                                    "ref": "http://d-nb.info/gnd/118529250",
+                                    "#text": "Christian Gottfried Ehrenberg"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "ref": "https://edition-humboldt.de/H0016747",
+                    "source": "#d238c5bd-a978-475e-8784-58ce7ec82010",
+                    "correspAction": [
+                        {
+                            "type": "sent",
+                            "persName": [
+                                {
+                                    "ref": "http://d-nb.info/gnd/118554700",
+                                    "#text": "Alexander von Humboldt"
+                                }
+                            ],
+                            "placeName": [
+                                {
+                                    "ref": "http://sws.geonames.org/2950159"
+                                }
+                            ],
+                            "date": [
+                                {
+                                    "notBefore": "1830",
+                                    "notAfter": "1830",
+                                    "#text": "1830-00-00"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "received",
+                            "persName": [
+                                {
+                                    "ref": "http://d-nb.info/gnd/118529250",
+                                    "#text": "Christian Gottfried Ehrenberg"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "text": {
+        "body": {
+            "p": null
+        }
+    }
+}

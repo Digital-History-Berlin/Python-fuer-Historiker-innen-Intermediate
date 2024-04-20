@@ -1,0 +1,432 @@
+{
+    "teiHeader": {
+        "fileDesc": {
+            "titleStmt": {
+                "title": "correspSearch API 2.0 (BETA)",
+                "editor": [
+                    {
+                        "#text": "correspsearch@bbaw.de",
+                        "email": "no-email-provided@correspsearch.net"
+                    }
+                ]
+            },
+            "publicationStmt": {
+                "publisher": [
+                    {
+                        "ref": {
+                            "target": "https://www.bbaw.de/",
+                            "#text": "Berlin-Brandenburg Academy of Sciences and Humanities"
+                        }
+                    }
+                ],
+                "availability": {
+                    "licence": [
+                        {
+                            "target": "https://creativecommons.org/licenses/by/4.0/",
+                            "#text": "CC-BY 4.0"
+                        }
+                    ]
+                },
+                "idno": "https://correspsearch.net/api/v2.0/tei-json.xql?s=http://d-nb.info/gnd/118554700&amp;c=https://edition-humboldt.de/api/v1.2/cmif.xql&amp;x=52",
+                "date": {
+                    "when": "2024-04-20T17:11:39.687+02:00"
+                }
+            },
+            "notesStmt": {
+                "note": "511-520 of 523 hits",
+                "relatedItem": [
+                    {
+                        "type": "prev",
+                        "target": "https://correspsearch.net/api/v2.0/tei-json.xql?s=http://d-nb.info/gnd/118554700&amp;c=https://edition-humboldt.de/api/v1.2/cmif.xql&amp;x=51"
+                    },
+                    {
+                        "type": "next",
+                        "target": "https://correspsearch.net/api/v2.0/tei-json.xql?s=http://d-nb.info/gnd/118554700&amp;c=https://edition-humboldt.de/api/v1.2/cmif.xql&amp;x=53"
+                    }
+                ]
+            },
+            "sourceDesc": {
+                "bibl": [
+                    {
+                        "xml:id": "d238c5bd-a978-475e-8784-58ce7ec82010",
+                        "type": "online",
+                        "#text": "edition humboldt digital, hg. v. Ottmar Ette. Berlin-Brandenburgische Akademie der Wissenschaften, Berlin 2017–2023.",
+                        "ref": {
+                            "target": "https://edition-humboldt.de",
+                            "#text": "https://edition-humboldt.de"
+                        }
+                    }
+                ]
+            }
+        },
+        "profileDesc": {
+            "correspDesc": [
+                {
+                    "ref": "https://edition-humboldt.de/H0019129",
+                    "source": "#d238c5bd-a978-475e-8784-58ce7ec82010",
+                    "correspAction": [
+                        {
+                            "type": "sent",
+                            "persName": [
+                                {
+                                    "ref": "http://d-nb.info/gnd/118554700",
+                                    "#text": "Alexander von Humboldt"
+                                }
+                            ],
+                            "placeName": [
+                                {
+                                    "ref": "http://sws.geonames.org/2950159"
+                                }
+                            ],
+                            "date": [
+                                {
+                                    "when": "1858-10-04"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "received",
+                            "persName": [
+                                {
+                                    "ref": "http://d-nb.info/gnd/118795090",
+                                    "#text": "Robert, Freiherr von Schlagintweit"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "ref": "https://edition-humboldt.de/H0016493",
+                    "source": "#d238c5bd-a978-475e-8784-58ce7ec82010",
+                    "correspAction": [
+                        {
+                            "type": "sent",
+                            "persName": [
+                                {
+                                    "ref": "http://d-nb.info/gnd/118554700",
+                                    "#text": "Alexander von Humboldt"
+                                }
+                            ],
+                            "placeName": [
+                                {
+                                    "ref": "http://sws.geonames.org/2950159"
+                                }
+                            ],
+                            "date": [
+                                {
+                                    "notBefore": "1858-11",
+                                    "notAfter": "1858-11",
+                                    "#text": "1858-11-00"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "received",
+                            "persName": [
+                                {
+                                    "ref": "http://d-nb.info/gnd/118529250",
+                                    "#text": "Christian Gottfried Ehrenberg"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "ref": "https://edition-humboldt.de/H0016494",
+                    "source": "#d238c5bd-a978-475e-8784-58ce7ec82010",
+                    "correspAction": [
+                        {
+                            "type": "sent",
+                            "persName": [
+                                {
+                                    "ref": "http://d-nb.info/gnd/118554700",
+                                    "#text": "Alexander von Humboldt"
+                                }
+                            ],
+                            "placeName": [
+                                {
+                                    "ref": "http://sws.geonames.org/2950159"
+                                }
+                            ],
+                            "date": [
+                                {
+                                    "when": "1858-12-27",
+                                    "#text": "1858-12-27"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "received",
+                            "persName": [
+                                {
+                                    "ref": "http://d-nb.info/gnd/118529250",
+                                    "#text": "Christian Gottfried Ehrenberg"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "ref": "https://edition-humboldt.de/H0016565",
+                    "source": "#d238c5bd-a978-475e-8784-58ce7ec82010",
+                    "correspAction": [
+                        {
+                            "type": "sent",
+                            "persName": [
+                                {
+                                    "ref": "http://d-nb.info/gnd/118529250",
+                                    "#text": "Christian Gottfried Ehrenberg"
+                                }
+                            ],
+                            "placeName": [
+                                {
+                                    "ref": "http://sws.geonames.org/2950159"
+                                }
+                            ],
+                            "date": [
+                                {
+                                    "when": "1858-12-28"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "received",
+                            "persName": [
+                                {
+                                    "ref": "http://d-nb.info/gnd/118554700",
+                                    "#text": "Alexander von Humboldt"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "ref": "https://edition-humboldt.de/H0016451",
+                    "source": "#d238c5bd-a978-475e-8784-58ce7ec82010",
+                    "correspAction": [
+                        {
+                            "type": "sent",
+                            "persName": [
+                                {
+                                    "ref": "http://d-nb.info/gnd/119074117",
+                                    "#text": "Hermann Schlagintweit-Sakünlünski"
+                                },
+                                {
+                                    "ref": "http://d-nb.info/gnd/118795090",
+                                    "#text": "Robert, Freiherr von Schlagintweit"
+                                }
+                            ],
+                            "placeName": [
+                                {
+                                    "ref": "http://sws.geonames.org/2950159"
+                                }
+                            ],
+                            "date": [
+                                {
+                                    "when": "1859-03-20"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "received",
+                            "persName": [
+                                {
+                                    "ref": "http://d-nb.info/gnd/118554700",
+                                    "#text": "Alexander von Humboldt"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "ref": "https://edition-humboldt.de/H0016467",
+                    "source": "#d238c5bd-a978-475e-8784-58ce7ec82010",
+                    "correspAction": [
+                        {
+                            "type": "sent",
+                            "persName": [
+                                {
+                                    "ref": "http://d-nb.info/gnd/119074117",
+                                    "#text": "Hermann Schlagintweit-Sakünlünski"
+                                },
+                                {
+                                    "ref": "http://d-nb.info/gnd/118795090",
+                                    "#text": "Robert, Freiherr von Schlagintweit"
+                                }
+                            ],
+                            "placeName": [
+                                {
+                                    "ref": "http://sws.geonames.org/2950159"
+                                }
+                            ],
+                            "date": [
+                                {
+                                    "when": "1859-03-20"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "received",
+                            "persName": [
+                                {
+                                    "ref": "http://d-nb.info/gnd/118554700",
+                                    "#text": "Alexander von Humboldt"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "ref": "https://edition-humboldt.de/H0016438",
+                    "source": "#d238c5bd-a978-475e-8784-58ce7ec82010",
+                    "correspAction": [
+                        {
+                            "type": "sent",
+                            "persName": [
+                                {
+                                    "ref": "http://d-nb.info/gnd/119074117",
+                                    "#text": "Hermann Schlagintweit-Sakünlünski"
+                                },
+                                {
+                                    "ref": "http://d-nb.info/gnd/118795090",
+                                    "#text": "Robert, Freiherr von Schlagintweit"
+                                }
+                            ],
+                            "placeName": [
+                                {
+                                    "ref": "http://sws.geonames.org/2950159"
+                                }
+                            ],
+                            "date": [
+                                {
+                                    "when": "1859-03-24"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "received",
+                            "persName": [
+                                {
+                                    "ref": "http://d-nb.info/gnd/118554700",
+                                    "#text": "Alexander von Humboldt"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "ref": "https://edition-humboldt.de/H0016454",
+                    "source": "#d238c5bd-a978-475e-8784-58ce7ec82010",
+                    "correspAction": [
+                        {
+                            "type": "sent",
+                            "persName": [
+                                {
+                                    "ref": "http://d-nb.info/gnd/119074117",
+                                    "#text": "Hermann Schlagintweit-Sakünlünski"
+                                },
+                                {
+                                    "ref": "http://d-nb.info/gnd/118795090",
+                                    "#text": "Robert, Freiherr von Schlagintweit"
+                                }
+                            ],
+                            "placeName": [
+                                {
+                                    "ref": "http://sws.geonames.org/2950159"
+                                }
+                            ],
+                            "date": [
+                                {
+                                    "when": "1859-03-26"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "received",
+                            "persName": [
+                                {
+                                    "ref": "http://d-nb.info/gnd/118554700",
+                                    "#text": "Alexander von Humboldt"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "ref": "https://edition-humboldt.de/H0016460",
+                    "source": "#d238c5bd-a978-475e-8784-58ce7ec82010",
+                    "correspAction": [
+                        {
+                            "type": "sent",
+                            "persName": [
+                                {
+                                    "ref": "http://d-nb.info/gnd/118554700",
+                                    "#text": "Alexander von Humboldt"
+                                }
+                            ],
+                            "placeName": [
+                                {
+                                    "ref": "http://sws.geonames.org/2950159"
+                                }
+                            ],
+                            "date": [
+                                {
+                                    "when": "1859-04-02"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "received",
+                            "persName": [
+                                {
+                                    "ref": "http://d-nb.info/gnd/119074117",
+                                    "#text": "Hermann Schlagintweit-Sakünlünski"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "ref": "https://edition-humboldt.de/H0016496",
+                    "source": "#d238c5bd-a978-475e-8784-58ce7ec82010",
+                    "correspAction": [
+                        {
+                            "type": "sent",
+                            "persName": [
+                                {
+                                    "ref": "http://d-nb.info/gnd/118554700",
+                                    "#text": "Alexander von Humboldt"
+                                }
+                            ],
+                            "placeName": [
+                                {
+                                    "ref": "http://sws.geonames.org/2950159"
+                                }
+                            ],
+                            "date": [
+                                {
+                                    "when": "1859-04-16",
+                                    "#text": "1859-04-16"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "received",
+                            "persName": [
+                                {
+                                    "ref": "http://d-nb.info/gnd/118529250",
+                                    "#text": "Christian Gottfried Ehrenberg"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "text": {
+        "body": {
+            "p": null
+        }
+    }
+}

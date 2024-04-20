@@ -1,0 +1,438 @@
+{
+    "teiHeader": {
+        "fileDesc": {
+            "titleStmt": {
+                "title": "correspSearch API 2.0 (BETA)",
+                "editor": [
+                    {
+                        "#text": "correspsearch@bbaw.de",
+                        "email": "no-email-provided@correspsearch.net"
+                    }
+                ]
+            },
+            "publicationStmt": {
+                "publisher": [
+                    {
+                        "ref": {
+                            "target": "https://www.bbaw.de/",
+                            "#text": "Berlin-Brandenburg Academy of Sciences and Humanities"
+                        }
+                    }
+                ],
+                "availability": {
+                    "licence": [
+                        {
+                            "target": "https://creativecommons.org/licenses/by/4.0/",
+                            "#text": "CC-BY 4.0"
+                        }
+                    ]
+                },
+                "idno": "https://correspsearch.net/api/v2.0/tei-json.xql?s=http://d-nb.info/gnd/118554700&amp;c=https://edition-humboldt.de/api/v1.2/cmif.xql&amp;x=30",
+                "date": {
+                    "when": "2024-04-20T17:09:45.418+02:00"
+                }
+            },
+            "notesStmt": {
+                "note": "291-300 of 523 hits",
+                "relatedItem": [
+                    {
+                        "type": "prev",
+                        "target": "https://correspsearch.net/api/v2.0/tei-json.xql?s=http://d-nb.info/gnd/118554700&amp;c=https://edition-humboldt.de/api/v1.2/cmif.xql&amp;x=29"
+                    },
+                    {
+                        "type": "next",
+                        "target": "https://correspsearch.net/api/v2.0/tei-json.xql?s=http://d-nb.info/gnd/118554700&amp;c=https://edition-humboldt.de/api/v1.2/cmif.xql&amp;x=31"
+                    }
+                ]
+            },
+            "sourceDesc": {
+                "bibl": [
+                    {
+                        "xml:id": "d238c5bd-a978-475e-8784-58ce7ec82010",
+                        "type": "online",
+                        "#text": "edition humboldt digital, hg. v. Ottmar Ette. Berlin-Brandenburgische Akademie der Wissenschaften, Berlin 2017–2023.",
+                        "ref": {
+                            "target": "https://edition-humboldt.de",
+                            "#text": "https://edition-humboldt.de"
+                        }
+                    }
+                ]
+            }
+        },
+        "profileDesc": {
+            "correspDesc": [
+                {
+                    "ref": "https://edition-humboldt.de/H0016509",
+                    "source": "#d238c5bd-a978-475e-8784-58ce7ec82010",
+                    "correspAction": [
+                        {
+                            "type": "sent",
+                            "persName": [
+                                {
+                                    "ref": "http://d-nb.info/gnd/118554700",
+                                    "#text": "Alexander von Humboldt"
+                                }
+                            ],
+                            "placeName": [
+                                {
+                                    "ref": "http://sws.geonames.org/2950159"
+                                }
+                            ],
+                            "date": [
+                                {
+                                    "notBefore": "1845",
+                                    "notAfter": "1845",
+                                    "#text": "1845-00-00"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "received",
+                            "persName": [
+                                {
+                                    "ref": "http://d-nb.info/gnd/118529250",
+                                    "#text": "Christian Gottfried Ehrenberg"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "ref": "https://edition-humboldt.de/H0016512",
+                    "source": "#d238c5bd-a978-475e-8784-58ce7ec82010",
+                    "correspAction": [
+                        {
+                            "type": "sent",
+                            "persName": [
+                                {
+                                    "ref": "http://d-nb.info/gnd/118554700",
+                                    "#text": "Alexander von Humboldt"
+                                }
+                            ],
+                            "placeName": [
+                                {
+                                    "ref": "http://sws.geonames.org/2950159"
+                                }
+                            ],
+                            "date": [
+                                {
+                                    "notBefore": "1845",
+                                    "notAfter": "1845",
+                                    "#text": "1845-00-00"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "received",
+                            "persName": [
+                                {
+                                    "ref": "http://d-nb.info/gnd/118529250",
+                                    "#text": "Christian Gottfried Ehrenberg"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "ref": "https://edition-humboldt.de/H0015183",
+                    "source": "#d238c5bd-a978-475e-8784-58ce7ec82010",
+                    "correspAction": [
+                        {
+                            "type": "sent",
+                            "persName": [
+                                {
+                                    "ref": "http://d-nb.info/gnd/118554700",
+                                    "#text": "Alexander von Humboldt"
+                                }
+                            ],
+                            "placeName": [
+                                {
+                                    "ref": "http://sws.geonames.org/2950159"
+                                }
+                            ],
+                            "date": [
+                                {
+                                    "notBefore": "1845-01-01",
+                                    "notAfter": "1845-07-08"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "received",
+                            "persName": [
+                                {
+                                    "ref": "http://d-nb.info/gnd/115674667",
+                                    "#text": "Carl Sigismund Kunth"
+                                }
+                            ],
+                            "placeName": [
+                                {
+                                    "ref": "http://sws.geonames.org/2950159"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "ref": "https://edition-humboldt.de/H0016725",
+                    "source": "#d238c5bd-a978-475e-8784-58ce7ec82010",
+                    "correspAction": [
+                        {
+                            "type": "sent",
+                            "persName": [
+                                {
+                                    "ref": "http://d-nb.info/gnd/118554700",
+                                    "#text": "Alexander von Humboldt"
+                                }
+                            ],
+                            "placeName": [
+                                {
+                                    "ref": "http://sws.geonames.org/2950159"
+                                }
+                            ],
+                            "date": [
+                                {
+                                    "notBefore": "1845",
+                                    "notAfter": "1845",
+                                    "#text": "1845-00-00"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "received",
+                            "persName": [
+                                {
+                                    "ref": "http://d-nb.info/gnd/118529250",
+                                    "#text": "Christian Gottfried Ehrenberg"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "ref": "https://edition-humboldt.de/H0016572",
+                    "source": "#d238c5bd-a978-475e-8784-58ce7ec82010",
+                    "correspAction": [
+                        {
+                            "type": "sent",
+                            "persName": [
+                                {
+                                    "ref": "http://d-nb.info/gnd/118554700",
+                                    "#text": "Alexander von Humboldt"
+                                }
+                            ],
+                            "placeName": [
+                                {
+                                    "ref": "http://sws.geonames.org/2950159"
+                                }
+                            ],
+                            "date": [
+                                {
+                                    "notBefore": "1845",
+                                    "notAfter": "1845",
+                                    "#text": "1845-00-00"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "received",
+                            "persName": [
+                                {
+                                    "ref": "http://d-nb.info/gnd/118529250",
+                                    "#text": "Christian Gottfried Ehrenberg"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "ref": "https://edition-humboldt.de/H0016591",
+                    "source": "#d238c5bd-a978-475e-8784-58ce7ec82010",
+                    "correspAction": [
+                        {
+                            "type": "sent",
+                            "persName": [
+                                {
+                                    "ref": "http://d-nb.info/gnd/118554700",
+                                    "#text": "Alexander von Humboldt"
+                                }
+                            ],
+                            "placeName": [
+                                {
+                                    "ref": "http://sws.geonames.org/2852458",
+                                    "#text": "Potsdam"
+                                }
+                            ],
+                            "date": [
+                                {
+                                    "notBefore": "1845",
+                                    "notAfter": "1845",
+                                    "#text": "1845-00-00"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "received",
+                            "persName": [
+                                {
+                                    "ref": "http://d-nb.info/gnd/118529250",
+                                    "#text": "Christian Gottfried Ehrenberg"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "ref": "https://edition-humboldt.de/H0016718",
+                    "source": "#d238c5bd-a978-475e-8784-58ce7ec82010",
+                    "correspAction": [
+                        {
+                            "type": "sent",
+                            "persName": [
+                                {
+                                    "ref": "http://d-nb.info/gnd/118554700",
+                                    "#text": "Alexander von Humboldt"
+                                }
+                            ],
+                            "placeName": [
+                                {
+                                    "ref": "http://sws.geonames.org/2988507"
+                                }
+                            ],
+                            "date": [
+                                {
+                                    "when": "1845-05-18",
+                                    "#text": "1845-05-18"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "received",
+                            "persName": [
+                                {
+                                    "ref": "http://d-nb.info/gnd/118529250",
+                                    "#text": "Christian Gottfried Ehrenberg"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "ref": "https://edition-humboldt.de/H0006049",
+                    "source": "#d238c5bd-a978-475e-8784-58ce7ec82010",
+                    "correspAction": [
+                        {
+                            "type": "sent",
+                            "persName": [
+                                {
+                                    "ref": "http://d-nb.info/gnd/118554700",
+                                    "#text": "Alexander von Humboldt"
+                                }
+                            ],
+                            "placeName": [
+                                {
+                                    "ref": "http://sws.geonames.org/2852458",
+                                    "#text": "Potsdam"
+                                }
+                            ],
+                            "date": [
+                                {
+                                    "when": "1845-07-08"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "received",
+                            "persName": [
+                                {
+                                    "ref": "http://d-nb.info/gnd/115674667",
+                                    "#text": "Carl Sigismund Kunth"
+                                }
+                            ],
+                            "placeName": [
+                                {
+                                    "ref": "http://sws.geonames.org/2950159"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "ref": "https://edition-humboldt.de/H0016716",
+                    "source": "#d238c5bd-a978-475e-8784-58ce7ec82010",
+                    "correspAction": [
+                        {
+                            "type": "sent",
+                            "persName": [
+                                {
+                                    "ref": "http://d-nb.info/gnd/118554700",
+                                    "#text": "Alexander von Humboldt"
+                                }
+                            ],
+                            "placeName": [
+                                {
+                                    "ref": "http://sws.geonames.org/2950159"
+                                }
+                            ],
+                            "date": [
+                                {
+                                    "when": "1845-07-19",
+                                    "#text": "1845-07-19"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "received",
+                            "persName": [
+                                {
+                                    "ref": "http://d-nb.info/gnd/118529250",
+                                    "#text": "Christian Gottfried Ehrenberg"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "ref": "https://edition-humboldt.de/H0019599",
+                    "source": "#d238c5bd-a978-475e-8784-58ce7ec82010",
+                    "correspAction": [
+                        {
+                            "type": "sent",
+                            "persName": [
+                                {
+                                    "ref": "http://d-nb.info/gnd/118554700",
+                                    "#text": "Alexander von Humboldt"
+                                }
+                            ],
+                            "placeName": [
+                                {
+                                    "ref": "http://sws.geonames.org/2950159"
+                                }
+                            ],
+                            "date": [
+                                {
+                                    "notBefore": "1845-08-28",
+                                    "notAfter": "1845-12-31"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "received",
+                            "persName": [
+                                {
+                                    "ref": "http://d-nb.info/gnd/116911921",
+                                    "#text": "Otto Alfred Schomburgk"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "text": {
+        "body": {
+            "p": null
+        }
+    }
+}

@@ -92,8 +92,8 @@ Tags
 Terminal
     Ein Terminal ist eine textbasierte Benutzerschnittstelle, die es ermöglicht, Befehle direkt an das Betriebssystem zu senden und Ergebnisse anzuzeigen.
 
-Third-Party-Paket
-    Third-party-Pakete sind Softwarepakete oder Bibliotheken, die von externen Entwicklern erstellt und nicht Teil der Standardbibliothek der verwendeten Programmiersprache sind.
+Third-Party-Packages
+    Third-Party-Packages sind Softwarepakete oder Bibliotheken, die von externen Entwicklern erstellt und nicht Teil der Standardbibliothek der verwendeten Programmiersprache sind.
 
 Token
     In Natural Language Processing (NLP) ist ein Token eine atomare Einheit, die während der Textverarbeitung gebildet wird und einem Wort, einer Zahl, einem Satzzeichen oder einer anderen Bedeutungseinheit entspricht, um den Text in kleinere Teile zu zerlegen und weiter zu analysieren.
