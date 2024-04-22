@@ -6,7 +6,9 @@
 
 body, :is(h1, h2, h3, h4, h5, h6) {
   font-family: 'BAHNSCHRIFT', Calibri, Tahoma, sans-serif;
-  font-stretch: condensed;  
+  font-stretch: condensed;
+  --pst-color-primary: #9CB262;
+  --pst-color-secondary: #E66D0D; 
 }
 
 div.CodeMirror-code {
@@ -14,9 +16,13 @@ div.CodeMirror-code {
     font-size: 14px;
   }
 
-  div:has(p.banner)  {
-    background-color: #9CB262;
+div:has(p.banner)  {
+    background-color: var(--pst-color-primary);
   }
+
+div.rect1, div.rect2, div.rect3, div.rect4{
+    background-color: var(--pst-color-primary);  
+}
 
 p {
     font-size: 20px;
@@ -53,18 +59,18 @@ dl.glossary {
 
 /* Schrift von Code-Elementen im Text auf #E66D0D (Orange-Ton) setzen */
 code.docutils.literal.notranslate {
-  color: #E66D0D;
+  color: var(--pst-color-secondary);
 }
 
 /* Vorheriger Farbcode für den Mint-Ton: #B0C86F (zusätzlich vermerkte Alternative: #94C172)*/
 
 /* Schrift mit Farbe blau auf Farbe #9CB262 (Mint-Ton)  setzen  => rechte Navigationsbar*/
 a.reference.internal.nav-link:hover, a.reference.internal.nav-link.active {
-  color: #9CB262;
+  color: var(--pst-color-primary);
 }
 
 .toc-entry a.nav-link.active {
-  box-shadow: inset max(3px,.1875rem,.12em) 0 0 #9CB262;
+  box-shadow: inset max(3px,.1875rem,.12em) 0 0 var(--pst-color-primary);
 }
 
 /* Schrift mit Farbe blau auf Farbe #9CB262 (Mint-Ton)  setzen  => Haupttextbereich*/
@@ -72,24 +78,34 @@ main.bd-content #main-content a,
 main.bd-content #main-content a:visited:hover,
 main.bd-content #print-main-content a,
 main.bd-content #print-main-content a:visited:hover {
- color:#9CB262;
+ color:var(--pst-color-primary);
 }
 
-/* Schrift mit Farbe blau auf Farbe #9CB262 (Mint-Ton)  setzen  => Links im Footer*/
-a, a:hover, a:visited, a:visited:hover {
-  color: #9CB262;
+/* Schrift mit Farbe blau auf Farbe #9CB262 (Mint-Ton)  setzen  => Links im Footer und Header Links*/
+a, a:hover, a:visited, a:visited:hover, a.headerlink {
+  color: var(--pst-color-primary);
 }
 
 /* Schrift mit Farbe blau auf Farbe #9CB262 (Mint-Ton)  setzen  => linke Navigationsbar*/
 nav.bd-links li > a:hover,
 nav.bd-links .current > a {
- color:#9CB262;
- box-shadow: inset max(3px,.1875rem,.12em) 0 0 #9CB262;
+ color:var(--pst-color-primary);
+ box-shadow: inset max(3px,.1875rem,.12em) 0 0 var(--pst-color-primary);
 }
 
 /* Schrift mit Farbe blau auf Farbe #9CB262 (Mint-Ton)  setzen  => vor-zurück-Navigation im unteren Bereich*/
 .prev-next-area a p.prev-next-title {
-  color: #9CB262 !important;
+  color: var(--pst-color-primary) !important;
   font-weight: 600;
   font-size: 1.1em;
+}
+
+/* Rahmen mit Farbe orange auf Farbe #E66D0D (Orange-Ton)  setzen  => Suchfeld*/
+.search-button-field:hover {
+  border: 2px solid var(--pst-color-primary);
+}
+
+/* Rahmen unten mit Farbe orange auf Farbe #9CB262 (Mint-Ton)  setzen  => Navbar oben Light/Dark Mode*/
+.theme-switch-button span:hover {
+  box-shadow: 0 max(3px,.1875rem,.12em) 0 var(--pst-color-primary);
 }
