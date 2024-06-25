@@ -62,6 +62,8 @@ parts:
     - file: ch-loesungen/ch01-api-loesung.ipynb
       title: Kapitel API
     - file: ch-loesungen/ch02-pandas-loesung.ipynb
+      title: Exkurs Regex
+    - file: ch-loesungen/ch02-regex-loesung.ipynb
       title: Kapitel Pandas
     - file: ch-loesungen/ch03-plotten-loesung.ipynb
       title: Kapitel Plotten
