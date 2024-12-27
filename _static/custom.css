@@ -16,10 +16,6 @@ div.CodeMirror-code {
     font-size: 14px;
   }
 
-div:has(p.banner)  {
-    background-color: var(--pst-color-primary);
-  }
-
 div.rect1, div.rect2, div.rect3, div.rect4{
     background-color: var(--pst-color-primary);  
 }
