@@ -1,7 +1,7 @@
 # Home
 
 ````{div} full-width
-```{figure} img/PythonHistoriker_innen_header_UDL7.png
+```{figure} img/PythonHistoriker_innen_II_header_UDL7.png
 :alt: Humboldt-Universität zu Berlin Hauptgebäude mit Logo Digital History Berlin
 :width: 800px
 :align: left
